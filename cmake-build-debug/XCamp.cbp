@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="XCamp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="XCamp">
+				<Option output="C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/XCamp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 XCamp"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="XCamp/fast">
+				<Option output="C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/XCamp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 XCamp/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/ComfortableCows.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/EvenMoreOddPhotos.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/StuckInARut.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/UdderedButNotHeard.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class1/Convention.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class1/Loan Repayment.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class10/HoofPaperScissors.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class10/MaximumMedian.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class10/SubArraySum2.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class10/Subarray Sum 2.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class2/BlockedBillboard.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class2/BlockedBillboard2.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class2/FencePainting.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class2/SquarePasture.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class3/CitiesAndStates.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class3/LemonadeLine.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class3/TeamTicTacToe.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class3/WhereAmI.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class3/YearOfTheCow.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class4/MixingMilk.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class4/ShellGame.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class4/SpeedingTicket.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class4/TheBovineShuffle.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class4/TheBucketList.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class4/TheCowSignal.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class4/TheLostCow.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class5/BlockGame.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class5/CensoringBronze.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class5/CircularBarn.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class5/MeasuringTraffic.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class5/MilkMeasurment.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class5/MowingTheField.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class5/MowingTheField2.0.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class6/BovineGenomics.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class6/CowGymnastics.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class6/DaisyChains.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class6/DiamondCollector.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class6/MilkPails.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class6/Triangles.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class7/CowTipping.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class7/GuessTheAnimal.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class7/Lifeguards.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class7/MadScientist.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class7/SleepyCowHerding.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class7/WhyDidTheCowCrossTheRoadII.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class8/AngryCows.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class8/CountingHaybales.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class8/CowDanceShow.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class9/ArrayDivision.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class9/SocialDistancing.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/Pizza.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/TripleFibbo.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/hanoitower.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/nthnumber.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/structure2basicquestion3.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/4pegHanoi.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/Hanoi Tower.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW8/DontBeLast.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW8/PositiveIntegerCounting.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW9/ClimbingStairs.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW9/Factorial.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW9/FiboClass.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW9/GCD.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/main.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

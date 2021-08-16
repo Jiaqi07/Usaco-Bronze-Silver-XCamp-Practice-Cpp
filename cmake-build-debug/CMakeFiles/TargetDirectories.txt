@@ -1,0 +1,3 @@
+C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir
+C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
