@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/ClockwiseFence.cpp">
+			<Option target="XCamp"/>
+		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/ComfortableCows.cpp">
 			<Option target="XCamp"/>
 		</Unit>

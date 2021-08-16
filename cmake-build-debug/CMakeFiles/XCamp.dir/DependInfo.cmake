@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/ClockwiseFence.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/ClockwiseFence.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/ComfortableCows.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/ComfortableCows.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/EvenMoreOddPhotos.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/EvenMoreOddPhotos.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling.cpp.obj"

@@ -1290,6 +1290,25 @@ CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.s /c C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW10\4pegHanoi.cpp
 <<
 
+CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj: "..\Usaco Practice\ClockwiseFence.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/XCamp.dir/Usaco_Practice/ClockwiseFence.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\Usaco Practice\ClockwiseFence.cpp"
+<<
+
+CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/Usaco_Practice/ClockwiseFence.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\Usaco Practice\ClockwiseFence.cpp"
+<<
+
+CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/Usaco_Practice/ClockwiseFence.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\Usaco Practice\ClockwiseFence.cpp"
+<<
+
 # Object files for target XCamp
 XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\main.cpp.obj" \
@@ -1356,7 +1375,8 @@ XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\Usaco_Practice\XCamp_Usaco_Bronze_2\Class10\MaximumMedian.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\ComfortableCows.cpp.obj" \
 "CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.obj" \
-"CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.obj"
+"CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.obj" \
+"CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj"
 
 # External object files for target XCamp
 XCamp_EXTERNAL_OBJECTS =
@@ -1426,9 +1446,10 @@ XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\XCamp_Usaco_Bronze_2\Class10\Maxi
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\ComfortableCows.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\build.make
 XCamp.exe: CMakeFiles\XCamp.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Linking CXX executable XCamp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Linking CXX executable XCamp.exe"
 	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\XCamp.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\XCamp.dir\objects1.rsp @<<
  /out:XCamp.exe /implib:XCamp.lib /pdb:C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\XCamp.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

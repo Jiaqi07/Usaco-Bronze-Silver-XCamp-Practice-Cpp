@@ -118,6 +118,30 @@ XCamp\fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\build
 .PHONY : XCamp\fast
 
+Usaco_Practice\ClockwiseFence.obj: Usaco_Practice\ClockwiseFence.cpp.obj
+.PHONY : Usaco_Practice\ClockwiseFence.obj
+
+# target to build an object file
+Usaco_Practice\ClockwiseFence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj
+.PHONY : Usaco_Practice\ClockwiseFence.cpp.obj
+
+Usaco_Practice\ClockwiseFence.i: Usaco_Practice\ClockwiseFence.cpp.i
+.PHONY : Usaco_Practice\ClockwiseFence.i
+
+# target to preprocess a source file
+Usaco_Practice\ClockwiseFence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.i
+.PHONY : Usaco_Practice\ClockwiseFence.cpp.i
+
+Usaco_Practice\ClockwiseFence.s: Usaco_Practice\ClockwiseFence.cpp.s
+.PHONY : Usaco_Practice\ClockwiseFence.s
+
+# target to generate assembly for a file
+Usaco_Practice\ClockwiseFence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.s
+.PHONY : Usaco_Practice\ClockwiseFence.cpp.s
+
 Usaco_Practice\ComfortableCows.obj: Usaco_Practice\ComfortableCows.cpp.obj
 .PHONY : Usaco_Practice\ComfortableCows.obj
 
@@ -1687,6 +1711,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... XCamp
+	@echo ... Usaco_Practice/ClockwiseFence.obj
+	@echo ... Usaco_Practice/ClockwiseFence.i
+	@echo ... Usaco_Practice/ClockwiseFence.s
 	@echo ... Usaco_Practice/ComfortableCows.obj
 	@echo ... Usaco_Practice/ComfortableCows.i
 	@echo ... Usaco_Practice/ComfortableCows.s

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/XCamp.dir/Usaco_Practice/ClockwiseFence.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/ComfortableCows.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/EvenMoreOddPhotos.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling.cpp.obj"
