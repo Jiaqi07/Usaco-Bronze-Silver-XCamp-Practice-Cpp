@@ -112,99 +112,99 @@ CMakeFiles\XCamp.dir\Usaco_Practice\UdderedButNotHeard.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\Usaco_Practice\UdderedButNotHeard.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\Usaco Practice\UdderedButNotHeard.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.obj: CMakeFiles\XCamp.dir\flags.make
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.obj: "..\XCamp 200 Midterm\nthnumber.cpp"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/XCamp.dir/XCamp_200_Midterm/nthnumber.cpp.obj"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj: "..\XCamp200\XCamp 200 Midterm\nthnumber.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/nthnumber.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\nthnumber.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\nthnumber.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp_200_Midterm/nthnumber.cpp.i"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\nthnumber.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/nthnumber.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\nthnumber.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp_200_Midterm/nthnumber.cpp.s"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/nthnumber.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\nthnumber.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\nthnumber.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.obj: CMakeFiles\XCamp.dir\flags.make
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.obj: "..\XCamp 200 Midterm\TripleFibbo.cpp"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/XCamp.dir/XCamp_200_Midterm/TripleFibbo.cpp.obj"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj: "..\XCamp200\XCamp 200 Midterm\TripleFibbo.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/TripleFibbo.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\TripleFibbo.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\TripleFibbo.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp_200_Midterm/TripleFibbo.cpp.i"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\TripleFibbo.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/TripleFibbo.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\TripleFibbo.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp_200_Midterm/TripleFibbo.cpp.s"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/TripleFibbo.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\TripleFibbo.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\TripleFibbo.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.obj: CMakeFiles\XCamp.dir\flags.make
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.obj: "..\XCamp 200 Midterm\hanoitower.cpp"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/XCamp.dir/XCamp_200_Midterm/hanoitower.cpp.obj"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj: "..\XCamp200\XCamp 200 Midterm\hanoitower.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/hanoitower.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\hanoitower.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\hanoitower.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp_200_Midterm/hanoitower.cpp.i"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\hanoitower.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/hanoitower.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\hanoitower.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp_200_Midterm/hanoitower.cpp.s"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/hanoitower.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\hanoitower.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\hanoitower.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: CMakeFiles\XCamp.dir\flags.make
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: "..\XCamp 200 Midterm\structure2basicquestion3.cpp"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/XCamp.dir/XCamp_200_Midterm/structure2basicquestion3.cpp.obj"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: "..\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/structure2basicquestion3.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\structure2basicquestion3.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp_200_Midterm/structure2basicquestion3.cpp.i"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\structure2basicquestion3.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/structure2basicquestion3.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp_200_Midterm/structure2basicquestion3.cpp.s"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/structure2basicquestion3.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\structure2basicquestion3.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.obj: CMakeFiles\XCamp.dir\flags.make
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.obj: "..\XCamp 200 Midterm\Pizza.cpp"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/XCamp.dir/XCamp_200_Midterm/Pizza.cpp.obj"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj: "..\XCamp200\XCamp 200 Midterm\Pizza.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/Pizza.cpp.obj"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\Pizza.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\Pizza.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp_200_Midterm/Pizza.cpp.i"
-	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\Pizza.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/Pizza.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\Pizza.cpp"
 <<
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp_200_Midterm/Pizza.cpp.s"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/Pizza.cpp.s"
 	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp 200 Midterm\Pizza.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Midterm\Pizza.cpp"
 <<
 
 CMakeFiles\XCamp.dir\Usaco_Practice\StuckInARut.cpp.obj: CMakeFiles\XCamp.dir\flags.make
@@ -1309,16 +1309,54 @@ CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\Usaco Practice\ClockwiseFence.cpp"
 <<
 
+CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj: ..\XCamp200\HW10\RecursionPractice2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/HW10/RecursionPractice2.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW10\RecursionPractice2.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/HW10/RecursionPractice2.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW10\RecursionPractice2.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/HW10/RecursionPractice2.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.s /c C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW10\RecursionPractice2.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj: "..\XCamp200\HW10\Sum of fractions.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/HW10/Sum_of_fractions.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW10\Sum of fractions.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/HW10/Sum_of_fractions.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW10\Sum of fractions.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/HW10/Sum_of_fractions.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW10\Sum of fractions.cpp"
+<<
+
 # Object files for target XCamp
 XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\main.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\UdderedButNotHeard.cpp.obj" \
-"CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.obj" \
-"CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.obj" \
-"CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.obj" \
-"CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.obj" \
-"CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\StuckInARut.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\EvenMoreOddPhotos.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\XCamp_Usaco_Bronze_2\Class1\Convention.cpp.obj" \
@@ -1376,7 +1414,9 @@ XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\Usaco_Practice\ComfortableCows.cpp.obj" \
 "CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.obj" \
 "CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.obj" \
-"CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj"
+"CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj"
 
 # External object files for target XCamp
 XCamp_EXTERNAL_OBJECTS =
@@ -1384,11 +1424,11 @@ XCamp_EXTERNAL_OBJECTS =
 XCamp.exe: CMakeFiles\XCamp.dir\main.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\UdderedButNotHeard.cpp.obj
-XCamp.exe: CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.obj
-XCamp.exe: CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.obj
-XCamp.exe: CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.obj
-XCamp.exe: CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.obj
-XCamp.exe: CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\StuckInARut.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\EvenMoreOddPhotos.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\XCamp_Usaco_Bronze_2\Class1\Convention.cpp.obj
@@ -1447,9 +1487,11 @@ XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\ComfortableCows.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\ClockwiseFence.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\build.make
 XCamp.exe: CMakeFiles\XCamp.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Linking CXX executable XCamp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Linking CXX executable XCamp.exe"
 	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\XCamp.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\XCamp.dir\objects1.rsp @<<
  /out:XCamp.exe /implib:XCamp.lib /pdb:C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\XCamp.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

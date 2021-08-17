@@ -1414,6 +1414,54 @@ XCamp200\HW10\Hanoi_Tower.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.s
 .PHONY : XCamp200\HW10\Hanoi_Tower.cpp.s
 
+XCamp200\HW10\RecursionPractice2.obj: XCamp200\HW10\RecursionPractice2.cpp.obj
+.PHONY : XCamp200\HW10\RecursionPractice2.obj
+
+# target to build an object file
+XCamp200\HW10\RecursionPractice2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj
+.PHONY : XCamp200\HW10\RecursionPractice2.cpp.obj
+
+XCamp200\HW10\RecursionPractice2.i: XCamp200\HW10\RecursionPractice2.cpp.i
+.PHONY : XCamp200\HW10\RecursionPractice2.i
+
+# target to preprocess a source file
+XCamp200\HW10\RecursionPractice2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.i
+.PHONY : XCamp200\HW10\RecursionPractice2.cpp.i
+
+XCamp200\HW10\RecursionPractice2.s: XCamp200\HW10\RecursionPractice2.cpp.s
+.PHONY : XCamp200\HW10\RecursionPractice2.s
+
+# target to generate assembly for a file
+XCamp200\HW10\RecursionPractice2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.s
+.PHONY : XCamp200\HW10\RecursionPractice2.cpp.s
+
+XCamp200\HW10\Sum_of_fractions.obj: XCamp200\HW10\Sum_of_fractions.cpp.obj
+.PHONY : XCamp200\HW10\Sum_of_fractions.obj
+
+# target to build an object file
+XCamp200\HW10\Sum_of_fractions.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj
+.PHONY : XCamp200\HW10\Sum_of_fractions.cpp.obj
+
+XCamp200\HW10\Sum_of_fractions.i: XCamp200\HW10\Sum_of_fractions.cpp.i
+.PHONY : XCamp200\HW10\Sum_of_fractions.i
+
+# target to preprocess a source file
+XCamp200\HW10\Sum_of_fractions.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.i
+.PHONY : XCamp200\HW10\Sum_of_fractions.cpp.i
+
+XCamp200\HW10\Sum_of_fractions.s: XCamp200\HW10\Sum_of_fractions.cpp.s
+.PHONY : XCamp200\HW10\Sum_of_fractions.s
+
+# target to generate assembly for a file
+XCamp200\HW10\Sum_of_fractions.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.s
+.PHONY : XCamp200\HW10\Sum_of_fractions.cpp.s
+
 XCamp200\HW8\DontBeLast.obj: XCamp200\HW8\DontBeLast.cpp.obj
 .PHONY : XCamp200\HW8\DontBeLast.obj
 
@@ -1558,125 +1606,125 @@ XCamp200\HW9\GCD.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW9\GCD.cpp.s
 .PHONY : XCamp200\HW9\GCD.cpp.s
 
-XCamp_200_Midterm\Pizza.obj: XCamp_200_Midterm\Pizza.cpp.obj
-.PHONY : XCamp_200_Midterm\Pizza.obj
+XCamp200\XCamp_200_Midterm\Pizza.obj: XCamp200\XCamp_200_Midterm\Pizza.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\Pizza.obj
 
 # target to build an object file
-XCamp_200_Midterm\Pizza.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.obj
-.PHONY : XCamp_200_Midterm\Pizza.cpp.obj
+XCamp200\XCamp_200_Midterm\Pizza.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\Pizza.cpp.obj
 
-XCamp_200_Midterm\Pizza.i: XCamp_200_Midterm\Pizza.cpp.i
-.PHONY : XCamp_200_Midterm\Pizza.i
+XCamp200\XCamp_200_Midterm\Pizza.i: XCamp200\XCamp_200_Midterm\Pizza.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\Pizza.i
 
 # target to preprocess a source file
-XCamp_200_Midterm\Pizza.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.i
-.PHONY : XCamp_200_Midterm\Pizza.cpp.i
+XCamp200\XCamp_200_Midterm\Pizza.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\Pizza.cpp.i
 
-XCamp_200_Midterm\Pizza.s: XCamp_200_Midterm\Pizza.cpp.s
-.PHONY : XCamp_200_Midterm\Pizza.s
+XCamp200\XCamp_200_Midterm\Pizza.s: XCamp200\XCamp_200_Midterm\Pizza.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\Pizza.s
 
 # target to generate assembly for a file
-XCamp_200_Midterm\Pizza.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.s
-.PHONY : XCamp_200_Midterm\Pizza.cpp.s
+XCamp200\XCamp_200_Midterm\Pizza.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\Pizza.cpp.s
 
-XCamp_200_Midterm\TripleFibbo.obj: XCamp_200_Midterm\TripleFibbo.cpp.obj
-.PHONY : XCamp_200_Midterm\TripleFibbo.obj
+XCamp200\XCamp_200_Midterm\TripleFibbo.obj: XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\TripleFibbo.obj
 
 # target to build an object file
-XCamp_200_Midterm\TripleFibbo.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.obj
-.PHONY : XCamp_200_Midterm\TripleFibbo.cpp.obj
+XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj
 
-XCamp_200_Midterm\TripleFibbo.i: XCamp_200_Midterm\TripleFibbo.cpp.i
-.PHONY : XCamp_200_Midterm\TripleFibbo.i
+XCamp200\XCamp_200_Midterm\TripleFibbo.i: XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\TripleFibbo.i
 
 # target to preprocess a source file
-XCamp_200_Midterm\TripleFibbo.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.i
-.PHONY : XCamp_200_Midterm\TripleFibbo.cpp.i
+XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.i
 
-XCamp_200_Midterm\TripleFibbo.s: XCamp_200_Midterm\TripleFibbo.cpp.s
-.PHONY : XCamp_200_Midterm\TripleFibbo.s
+XCamp200\XCamp_200_Midterm\TripleFibbo.s: XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\TripleFibbo.s
 
 # target to generate assembly for a file
-XCamp_200_Midterm\TripleFibbo.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.s
-.PHONY : XCamp_200_Midterm\TripleFibbo.cpp.s
+XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.s
 
-XCamp_200_Midterm\hanoitower.obj: XCamp_200_Midterm\hanoitower.cpp.obj
-.PHONY : XCamp_200_Midterm\hanoitower.obj
+XCamp200\XCamp_200_Midterm\hanoitower.obj: XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\hanoitower.obj
 
 # target to build an object file
-XCamp_200_Midterm\hanoitower.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.obj
-.PHONY : XCamp_200_Midterm\hanoitower.cpp.obj
+XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj
 
-XCamp_200_Midterm\hanoitower.i: XCamp_200_Midterm\hanoitower.cpp.i
-.PHONY : XCamp_200_Midterm\hanoitower.i
+XCamp200\XCamp_200_Midterm\hanoitower.i: XCamp200\XCamp_200_Midterm\hanoitower.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\hanoitower.i
 
 # target to preprocess a source file
-XCamp_200_Midterm\hanoitower.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.i
-.PHONY : XCamp_200_Midterm\hanoitower.cpp.i
+XCamp200\XCamp_200_Midterm\hanoitower.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\hanoitower.cpp.i
 
-XCamp_200_Midterm\hanoitower.s: XCamp_200_Midterm\hanoitower.cpp.s
-.PHONY : XCamp_200_Midterm\hanoitower.s
+XCamp200\XCamp_200_Midterm\hanoitower.s: XCamp200\XCamp_200_Midterm\hanoitower.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\hanoitower.s
 
 # target to generate assembly for a file
-XCamp_200_Midterm\hanoitower.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.s
-.PHONY : XCamp_200_Midterm\hanoitower.cpp.s
+XCamp200\XCamp_200_Midterm\hanoitower.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\hanoitower.cpp.s
 
-XCamp_200_Midterm\nthnumber.obj: XCamp_200_Midterm\nthnumber.cpp.obj
-.PHONY : XCamp_200_Midterm\nthnumber.obj
+XCamp200\XCamp_200_Midterm\nthnumber.obj: XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\nthnumber.obj
 
 # target to build an object file
-XCamp_200_Midterm\nthnumber.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.obj
-.PHONY : XCamp_200_Midterm\nthnumber.cpp.obj
+XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj
 
-XCamp_200_Midterm\nthnumber.i: XCamp_200_Midterm\nthnumber.cpp.i
-.PHONY : XCamp_200_Midterm\nthnumber.i
+XCamp200\XCamp_200_Midterm\nthnumber.i: XCamp200\XCamp_200_Midterm\nthnumber.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\nthnumber.i
 
 # target to preprocess a source file
-XCamp_200_Midterm\nthnumber.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.i
-.PHONY : XCamp_200_Midterm\nthnumber.cpp.i
+XCamp200\XCamp_200_Midterm\nthnumber.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\nthnumber.cpp.i
 
-XCamp_200_Midterm\nthnumber.s: XCamp_200_Midterm\nthnumber.cpp.s
-.PHONY : XCamp_200_Midterm\nthnumber.s
+XCamp200\XCamp_200_Midterm\nthnumber.s: XCamp200\XCamp_200_Midterm\nthnumber.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\nthnumber.s
 
 # target to generate assembly for a file
-XCamp_200_Midterm\nthnumber.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.s
-.PHONY : XCamp_200_Midterm\nthnumber.cpp.s
+XCamp200\XCamp_200_Midterm\nthnumber.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\nthnumber.cpp.s
 
-XCamp_200_Midterm\structure2basicquestion3.obj: XCamp_200_Midterm\structure2basicquestion3.cpp.obj
-.PHONY : XCamp_200_Midterm\structure2basicquestion3.obj
+XCamp200\XCamp_200_Midterm\structure2basicquestion3.obj: XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.obj
 
 # target to build an object file
-XCamp_200_Midterm\structure2basicquestion3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.obj
-.PHONY : XCamp_200_Midterm\structure2basicquestion3.cpp.obj
+XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj
+.PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj
 
-XCamp_200_Midterm\structure2basicquestion3.i: XCamp_200_Midterm\structure2basicquestion3.cpp.i
-.PHONY : XCamp_200_Midterm\structure2basicquestion3.i
+XCamp200\XCamp_200_Midterm\structure2basicquestion3.i: XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.i
 
 # target to preprocess a source file
-XCamp_200_Midterm\structure2basicquestion3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.i
-.PHONY : XCamp_200_Midterm\structure2basicquestion3.cpp.i
+XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.i
+.PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.i
 
-XCamp_200_Midterm\structure2basicquestion3.s: XCamp_200_Midterm\structure2basicquestion3.cpp.s
-.PHONY : XCamp_200_Midterm\structure2basicquestion3.s
+XCamp200\XCamp_200_Midterm\structure2basicquestion3.s: XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.s
 
 # target to generate assembly for a file
-XCamp_200_Midterm\structure2basicquestion3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.s
-.PHONY : XCamp_200_Midterm\structure2basicquestion3.cpp.s
+XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
+.PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -1873,6 +1921,12 @@ help:
 	@echo ... XCamp200/HW10/Hanoi_Tower.obj
 	@echo ... XCamp200/HW10/Hanoi_Tower.i
 	@echo ... XCamp200/HW10/Hanoi_Tower.s
+	@echo ... XCamp200/HW10/RecursionPractice2.obj
+	@echo ... XCamp200/HW10/RecursionPractice2.i
+	@echo ... XCamp200/HW10/RecursionPractice2.s
+	@echo ... XCamp200/HW10/Sum_of_fractions.obj
+	@echo ... XCamp200/HW10/Sum_of_fractions.i
+	@echo ... XCamp200/HW10/Sum_of_fractions.s
 	@echo ... XCamp200/HW8/DontBeLast.obj
 	@echo ... XCamp200/HW8/DontBeLast.i
 	@echo ... XCamp200/HW8/DontBeLast.s
@@ -1891,21 +1945,21 @@ help:
 	@echo ... XCamp200/HW9/GCD.obj
 	@echo ... XCamp200/HW9/GCD.i
 	@echo ... XCamp200/HW9/GCD.s
-	@echo ... XCamp_200_Midterm/Pizza.obj
-	@echo ... XCamp_200_Midterm/Pizza.i
-	@echo ... XCamp_200_Midterm/Pizza.s
-	@echo ... XCamp_200_Midterm/TripleFibbo.obj
-	@echo ... XCamp_200_Midterm/TripleFibbo.i
-	@echo ... XCamp_200_Midterm/TripleFibbo.s
-	@echo ... XCamp_200_Midterm/hanoitower.obj
-	@echo ... XCamp_200_Midterm/hanoitower.i
-	@echo ... XCamp_200_Midterm/hanoitower.s
-	@echo ... XCamp_200_Midterm/nthnumber.obj
-	@echo ... XCamp_200_Midterm/nthnumber.i
-	@echo ... XCamp_200_Midterm/nthnumber.s
-	@echo ... XCamp_200_Midterm/structure2basicquestion3.obj
-	@echo ... XCamp_200_Midterm/structure2basicquestion3.i
-	@echo ... XCamp_200_Midterm/structure2basicquestion3.s
+	@echo ... XCamp200/XCamp_200_Midterm/Pizza.obj
+	@echo ... XCamp200/XCamp_200_Midterm/Pizza.i
+	@echo ... XCamp200/XCamp_200_Midterm/Pizza.s
+	@echo ... XCamp200/XCamp_200_Midterm/TripleFibbo.obj
+	@echo ... XCamp200/XCamp_200_Midterm/TripleFibbo.i
+	@echo ... XCamp200/XCamp_200_Midterm/TripleFibbo.s
+	@echo ... XCamp200/XCamp_200_Midterm/hanoitower.obj
+	@echo ... XCamp200/XCamp_200_Midterm/hanoitower.i
+	@echo ... XCamp200/XCamp_200_Midterm/hanoitower.s
+	@echo ... XCamp200/XCamp_200_Midterm/nthnumber.obj
+	@echo ... XCamp200/XCamp_200_Midterm/nthnumber.i
+	@echo ... XCamp200/XCamp_200_Midterm/nthnumber.s
+	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.obj
+	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.i
+	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

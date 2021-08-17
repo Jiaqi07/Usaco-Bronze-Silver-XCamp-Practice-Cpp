@@ -238,25 +238,16 @@
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class9/SocialDistancing.cpp">
 			<Option target="XCamp"/>
 		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/Pizza.cpp">
-			<Option target="XCamp"/>
-		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/TripleFibbo.cpp">
-			<Option target="XCamp"/>
-		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/hanoitower.cpp">
-			<Option target="XCamp"/>
-		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/nthnumber.cpp">
-			<Option target="XCamp"/>
-		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp 200 Midterm/structure2basicquestion3.cpp">
-			<Option target="XCamp"/>
-		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/4pegHanoi.cpp">
 			<Option target="XCamp"/>
 		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/Hanoi Tower.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/RecursionPractice2.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/Sum of fractions.cpp">
 			<Option target="XCamp"/>
 		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW8/DontBeLast.cpp">
@@ -275,6 +266,21 @@
 			<Option target="XCamp"/>
 		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW9/GCD.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/Pizza.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/TripleFibbo.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/hanoitower.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/nthnumber.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/structure2basicquestion3.cpp">
 			<Option target="XCamp"/>
 		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/main.cpp">
