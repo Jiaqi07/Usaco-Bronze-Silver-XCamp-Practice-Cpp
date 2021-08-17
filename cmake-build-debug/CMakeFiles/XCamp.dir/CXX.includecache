@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/ClockwiseFence.cpp
+C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/RecursionPractice2.cpp
 iostream
 -
-algorithm
+cmath
 -
 

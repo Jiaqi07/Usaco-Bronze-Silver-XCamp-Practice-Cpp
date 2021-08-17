@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <cmath>
 using namespace std;
@@ -28,3 +29,4 @@ int main(){
     cout << floor(sum*100+0.5)/100;
     return 0;
 }
+*/

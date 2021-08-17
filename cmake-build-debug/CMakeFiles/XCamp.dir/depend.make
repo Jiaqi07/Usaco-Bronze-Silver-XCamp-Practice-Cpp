@@ -109,6 +109,10 @@ CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.obj: ..\XCamp200\HW10\4pegHanoi
 
 CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.obj: "..\XCamp200\HW10\Hanoi Tower.cpp"
 
+CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj: ..\XCamp200\HW10\RecursionPractice2.cpp
+
+CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj: "..\XCamp200\HW10\Sum of fractions.cpp"
+
 CMakeFiles\XCamp.dir\XCamp200\HW8\DontBeLast.cpp.obj: ..\XCamp200\HW8\DontBeLast.cpp
 
 CMakeFiles\XCamp.dir\XCamp200\HW8\PositiveIntegerCounting.cpp.obj: ..\XCamp200\HW8\PositiveIntegerCounting.cpp
@@ -121,15 +125,15 @@ CMakeFiles\XCamp.dir\XCamp200\HW9\FiboClass.cpp.obj: ..\XCamp200\HW9\FiboClass.c
 
 CMakeFiles\XCamp.dir\XCamp200\HW9\GCD.cpp.obj: ..\XCamp200\HW9\GCD.cpp
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\Pizza.cpp.obj: "..\XCamp 200 Midterm\Pizza.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj: "..\XCamp200\XCamp 200 Midterm\Pizza.cpp"
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\TripleFibbo.cpp.obj: "..\XCamp 200 Midterm\TripleFibbo.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj: "..\XCamp200\XCamp 200 Midterm\TripleFibbo.cpp"
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\hanoitower.cpp.obj: "..\XCamp 200 Midterm\hanoitower.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj: "..\XCamp200\XCamp 200 Midterm\hanoitower.cpp"
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\nthnumber.cpp.obj: "..\XCamp 200 Midterm\nthnumber.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj: "..\XCamp200\XCamp 200 Midterm\nthnumber.cpp"
 
-CMakeFiles\XCamp.dir\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: "..\XCamp 200 Midterm\structure2basicquestion3.cpp"
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: "..\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
 
 CMakeFiles\XCamp.dir\main.cpp.obj: ..\main.cpp
 
