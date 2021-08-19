@@ -6,7 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling3.0WORKING.cpp
+C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class2/FencePainting.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+iostream
+-
+vector
+-
+algorithm
+-
 iostream
 -
 vector
