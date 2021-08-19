@@ -9,6 +9,10 @@ CMakeFiles\XCamp.dir\Usaco_Practice\EvenMoreOddPhotos.cpp.obj: "..\Usaco Practic
 
 CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling.cpp.obj: "..\Usaco Practice\JustStalling.cpp"
 
+CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.obj: "..\Usaco Practice\JustStalling2.0.cpp"
+
+CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.obj: "..\Usaco Practice\JustStalling3.0WORKING.cpp"
+
 CMakeFiles\XCamp.dir\Usaco_Practice\StuckInARut.cpp.obj: "..\Usaco Practice\StuckInARut.cpp"
 
 CMakeFiles\XCamp.dir\Usaco_Practice\UdderedButNotHeard.cpp.obj: "..\Usaco Practice\UdderedButNotHeard.cpp"
@@ -108,6 +112,8 @@ CMakeFiles\XCamp.dir\Usaco_Practice\XCamp_Usaco_Bronze_2\Class9\SocialDistancing
 CMakeFiles\XCamp.dir\XCamp200\HW10\4pegHanoi.cpp.obj: ..\XCamp200\HW10\4pegHanoi.cpp
 
 CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.obj: "..\XCamp200\HW10\Hanoi Tower.cpp"
+
+CMakeFiles\XCamp.dir\XCamp200\HW10\PermutationofXiaoYuan.cpp.obj: ..\XCamp200\HW10\PermutationofXiaoYuan.cpp
 
 CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj: ..\XCamp200\HW10\RecursionPractice2.cpp
 

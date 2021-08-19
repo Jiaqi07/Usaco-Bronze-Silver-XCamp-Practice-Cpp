@@ -214,6 +214,54 @@ Usaco_Practice\JustStalling.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling.cpp.s
 .PHONY : Usaco_Practice\JustStalling.cpp.s
 
+Usaco_Practice\JustStalling2.0.obj: Usaco_Practice\JustStalling2.0.cpp.obj
+.PHONY : Usaco_Practice\JustStalling2.0.obj
+
+# target to build an object file
+Usaco_Practice\JustStalling2.0.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.obj
+.PHONY : Usaco_Practice\JustStalling2.0.cpp.obj
+
+Usaco_Practice\JustStalling2.0.i: Usaco_Practice\JustStalling2.0.cpp.i
+.PHONY : Usaco_Practice\JustStalling2.0.i
+
+# target to preprocess a source file
+Usaco_Practice\JustStalling2.0.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.i
+.PHONY : Usaco_Practice\JustStalling2.0.cpp.i
+
+Usaco_Practice\JustStalling2.0.s: Usaco_Practice\JustStalling2.0.cpp.s
+.PHONY : Usaco_Practice\JustStalling2.0.s
+
+# target to generate assembly for a file
+Usaco_Practice\JustStalling2.0.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.s
+.PHONY : Usaco_Practice\JustStalling2.0.cpp.s
+
+Usaco_Practice\JustStalling3.0WORKING.obj: Usaco_Practice\JustStalling3.0WORKING.cpp.obj
+.PHONY : Usaco_Practice\JustStalling3.0WORKING.obj
+
+# target to build an object file
+Usaco_Practice\JustStalling3.0WORKING.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.obj
+.PHONY : Usaco_Practice\JustStalling3.0WORKING.cpp.obj
+
+Usaco_Practice\JustStalling3.0WORKING.i: Usaco_Practice\JustStalling3.0WORKING.cpp.i
+.PHONY : Usaco_Practice\JustStalling3.0WORKING.i
+
+# target to preprocess a source file
+Usaco_Practice\JustStalling3.0WORKING.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.i
+.PHONY : Usaco_Practice\JustStalling3.0WORKING.cpp.i
+
+Usaco_Practice\JustStalling3.0WORKING.s: Usaco_Practice\JustStalling3.0WORKING.cpp.s
+.PHONY : Usaco_Practice\JustStalling3.0WORKING.s
+
+# target to generate assembly for a file
+Usaco_Practice\JustStalling3.0WORKING.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.s
+.PHONY : Usaco_Practice\JustStalling3.0WORKING.cpp.s
+
 Usaco_Practice\StuckInARut.obj: Usaco_Practice\StuckInARut.cpp.obj
 .PHONY : Usaco_Practice\StuckInARut.obj
 
@@ -1414,6 +1462,30 @@ XCamp200\HW10\Hanoi_Tower.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\Hanoi_Tower.cpp.s
 .PHONY : XCamp200\HW10\Hanoi_Tower.cpp.s
 
+XCamp200\HW10\PermutationofXiaoYuan.obj: XCamp200\HW10\PermutationofXiaoYuan.cpp.obj
+.PHONY : XCamp200\HW10\PermutationofXiaoYuan.obj
+
+# target to build an object file
+XCamp200\HW10\PermutationofXiaoYuan.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\PermutationofXiaoYuan.cpp.obj
+.PHONY : XCamp200\HW10\PermutationofXiaoYuan.cpp.obj
+
+XCamp200\HW10\PermutationofXiaoYuan.i: XCamp200\HW10\PermutationofXiaoYuan.cpp.i
+.PHONY : XCamp200\HW10\PermutationofXiaoYuan.i
+
+# target to preprocess a source file
+XCamp200\HW10\PermutationofXiaoYuan.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\PermutationofXiaoYuan.cpp.i
+.PHONY : XCamp200\HW10\PermutationofXiaoYuan.cpp.i
+
+XCamp200\HW10\PermutationofXiaoYuan.s: XCamp200\HW10\PermutationofXiaoYuan.cpp.s
+.PHONY : XCamp200\HW10\PermutationofXiaoYuan.s
+
+# target to generate assembly for a file
+XCamp200\HW10\PermutationofXiaoYuan.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\PermutationofXiaoYuan.cpp.s
+.PHONY : XCamp200\HW10\PermutationofXiaoYuan.cpp.s
+
 XCamp200\HW10\RecursionPractice2.obj: XCamp200\HW10\RecursionPractice2.cpp.obj
 .PHONY : XCamp200\HW10\RecursionPractice2.obj
 
@@ -1771,6 +1843,12 @@ help:
 	@echo ... Usaco_Practice/JustStalling.obj
 	@echo ... Usaco_Practice/JustStalling.i
 	@echo ... Usaco_Practice/JustStalling.s
+	@echo ... Usaco_Practice/JustStalling2.0.obj
+	@echo ... Usaco_Practice/JustStalling2.0.i
+	@echo ... Usaco_Practice/JustStalling2.0.s
+	@echo ... Usaco_Practice/JustStalling3.0WORKING.obj
+	@echo ... Usaco_Practice/JustStalling3.0WORKING.i
+	@echo ... Usaco_Practice/JustStalling3.0WORKING.s
 	@echo ... Usaco_Practice/StuckInARut.obj
 	@echo ... Usaco_Practice/StuckInARut.i
 	@echo ... Usaco_Practice/StuckInARut.s
@@ -1921,6 +1999,9 @@ help:
 	@echo ... XCamp200/HW10/Hanoi_Tower.obj
 	@echo ... XCamp200/HW10/Hanoi_Tower.i
 	@echo ... XCamp200/HW10/Hanoi_Tower.s
+	@echo ... XCamp200/HW10/PermutationofXiaoYuan.obj
+	@echo ... XCamp200/HW10/PermutationofXiaoYuan.i
+	@echo ... XCamp200/HW10/PermutationofXiaoYuan.s
 	@echo ... XCamp200/HW10/RecursionPractice2.obj
 	@echo ... XCamp200/HW10/RecursionPractice2.i
 	@echo ... XCamp200/HW10/RecursionPractice2.s

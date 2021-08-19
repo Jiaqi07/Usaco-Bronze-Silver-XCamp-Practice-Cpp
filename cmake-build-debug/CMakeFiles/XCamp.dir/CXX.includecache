@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/XCamp200/HW10/RecursionPractice2.cpp
+C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling3.0WORKING.cpp
 iostream
 -
-cmath
+vector
+-
+algorithm
 -
 
