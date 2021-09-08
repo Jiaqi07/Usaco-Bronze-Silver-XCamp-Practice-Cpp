@@ -262,6 +262,54 @@ Usaco_Practice\JustStalling3.0WORKING.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.s
 .PHONY : Usaco_Practice\JustStalling3.0WORKING.cpp.s
 
+Usaco_Practice\School_Season_August_2021\LoadBalancing.obj: Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.obj
+
+# target to build an object file
+Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj
+
+Usaco_Practice\School_Season_August_2021\LoadBalancing.i: Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.i
+
+# target to preprocess a source file
+Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.i
+
+Usaco_Practice\School_Season_August_2021\LoadBalancing.s: Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.s
+
+# target to generate assembly for a file
+Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.s
+
+Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.obj: Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.obj
+
+# target to build an object file
+Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj
+
+Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.i: Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.i
+
+# target to preprocess a source file
+Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.i
+
+Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.s: Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.s
+
+# target to generate assembly for a file
+Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s
+
 Usaco_Practice\StuckInARut.obj: Usaco_Practice\StuckInARut.cpp.obj
 .PHONY : Usaco_Practice\StuckInARut.obj
 
@@ -1849,6 +1897,12 @@ help:
 	@echo ... Usaco_Practice/JustStalling3.0WORKING.obj
 	@echo ... Usaco_Practice/JustStalling3.0WORKING.i
 	@echo ... Usaco_Practice/JustStalling3.0WORKING.s
+	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.obj
+	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.i
+	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.s
+	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.obj
+	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.i
+	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.s
 	@echo ... Usaco_Practice/StuckInARut.obj
 	@echo ... Usaco_Practice/StuckInARut.i
 	@echo ... Usaco_Practice/StuckInARut.s

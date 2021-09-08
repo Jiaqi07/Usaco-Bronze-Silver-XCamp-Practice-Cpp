@@ -13,6 +13,10 @@ CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.obj: "..\Usaco Practice\
 
 CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.obj: "..\Usaco Practice\JustStalling3.0WORKING.cpp"
 
+CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj: "..\Usaco Practice\School Season August 2021\LoadBalancing.cpp"
+
+CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj: "..\Usaco Practice\School Season August 2021\Stuckinarut2.0.cpp"
+
 CMakeFiles\XCamp.dir\Usaco_Practice\StuckInARut.cpp.obj: "..\Usaco Practice\StuckInARut.cpp"
 
 CMakeFiles\XCamp.dir\Usaco_Practice\UdderedButNotHeard.cpp.obj: "..\Usaco Practice\UdderedButNotHeard.cpp"

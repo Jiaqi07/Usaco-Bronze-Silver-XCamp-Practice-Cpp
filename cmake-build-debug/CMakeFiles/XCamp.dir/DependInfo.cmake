@@ -14,6 +14,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling2.0.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling2.0.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling3.0WORKING.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling3.0WORKING.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/LoadBalancing.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/LoadBalancing.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/Stuckinarut2.0.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/StuckInARut.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/StuckInARut.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/UdderedButNotHeard.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/UdderedButNotHeard.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/XCamp Usaco Bronze 2/Class1/Convention.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/XCamp_Usaco_Bronze_2/Class1/Convention.cpp.obj"
