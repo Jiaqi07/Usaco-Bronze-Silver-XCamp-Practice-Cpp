@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 //https://xjoi.net/contest/3014/problem/2
 using namespace std;
@@ -27,3 +28,4 @@ int main(){
 
     return 0;
 }
+ */

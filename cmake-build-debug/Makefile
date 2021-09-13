@@ -1582,6 +1582,54 @@ XCamp200\HW10\Sum_of_fractions.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.s
 .PHONY : XCamp200\HW10\Sum_of_fractions.cpp.s
 
+XCamp200\HW11\Auction.obj: XCamp200\HW11\Auction.cpp.obj
+.PHONY : XCamp200\HW11\Auction.obj
+
+# target to build an object file
+XCamp200\HW11\Auction.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.obj
+.PHONY : XCamp200\HW11\Auction.cpp.obj
+
+XCamp200\HW11\Auction.i: XCamp200\HW11\Auction.cpp.i
+.PHONY : XCamp200\HW11\Auction.i
+
+# target to preprocess a source file
+XCamp200\HW11\Auction.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.i
+.PHONY : XCamp200\HW11\Auction.cpp.i
+
+XCamp200\HW11\Auction.s: XCamp200\HW11\Auction.cpp.s
+.PHONY : XCamp200\HW11\Auction.s
+
+# target to generate assembly for a file
+XCamp200\HW11\Auction.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.s
+.PHONY : XCamp200\HW11\Auction.cpp.s
+
+XCamp200\HW11\BunnyFamily.obj: XCamp200\HW11\BunnyFamily.cpp.obj
+.PHONY : XCamp200\HW11\BunnyFamily.obj
+
+# target to build an object file
+XCamp200\HW11\BunnyFamily.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.obj
+.PHONY : XCamp200\HW11\BunnyFamily.cpp.obj
+
+XCamp200\HW11\BunnyFamily.i: XCamp200\HW11\BunnyFamily.cpp.i
+.PHONY : XCamp200\HW11\BunnyFamily.i
+
+# target to preprocess a source file
+XCamp200\HW11\BunnyFamily.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.i
+.PHONY : XCamp200\HW11\BunnyFamily.cpp.i
+
+XCamp200\HW11\BunnyFamily.s: XCamp200\HW11\BunnyFamily.cpp.s
+.PHONY : XCamp200\HW11\BunnyFamily.s
+
+# target to generate assembly for a file
+XCamp200\HW11\BunnyFamily.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.s
+.PHONY : XCamp200\HW11\BunnyFamily.cpp.s
+
 XCamp200\HW8\DontBeLast.obj: XCamp200\HW8\DontBeLast.cpp.obj
 .PHONY : XCamp200\HW8\DontBeLast.obj
 
@@ -1725,6 +1773,78 @@ XCamp200\HW9\GCD.s: XCamp200\HW9\GCD.cpp.s
 XCamp200\HW9\GCD.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\HW9\GCD.cpp.s
 .PHONY : XCamp200\HW9\GCD.cpp.s
+
+XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.obj: XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj
+.PHONY : XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.obj
+
+# target to build an object file
+XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj
+.PHONY : XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj
+
+XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.i: XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.i
+.PHONY : XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.i
+
+# target to preprocess a source file
+XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.i
+.PHONY : XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.i
+
+XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.s: XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.s
+.PHONY : XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.s
+
+# target to generate assembly for a file
+XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.s
+.PHONY : XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.s
+
+XCamp200\XCamp_200_Final_Exam\Pyramids.obj: XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj
+.PHONY : XCamp200\XCamp_200_Final_Exam\Pyramids.obj
+
+# target to build an object file
+XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj
+.PHONY : XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj
+
+XCamp200\XCamp_200_Final_Exam\Pyramids.i: XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.i
+.PHONY : XCamp200\XCamp_200_Final_Exam\Pyramids.i
+
+# target to preprocess a source file
+XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.i
+.PHONY : XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.i
+
+XCamp200\XCamp_200_Final_Exam\Pyramids.s: XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.s
+.PHONY : XCamp200\XCamp_200_Final_Exam\Pyramids.s
+
+# target to generate assembly for a file
+XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.s
+.PHONY : XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.s
+
+XCamp200\XCamp_200_Final_Exam\TakingSteps.obj: XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj
+.PHONY : XCamp200\XCamp_200_Final_Exam\TakingSteps.obj
+
+# target to build an object file
+XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj
+.PHONY : XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj
+
+XCamp200\XCamp_200_Final_Exam\TakingSteps.i: XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.i
+.PHONY : XCamp200\XCamp_200_Final_Exam\TakingSteps.i
+
+# target to preprocess a source file
+XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.i
+.PHONY : XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.i
+
+XCamp200\XCamp_200_Final_Exam\TakingSteps.s: XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.s
+.PHONY : XCamp200\XCamp_200_Final_Exam\TakingSteps.s
+
+# target to generate assembly for a file
+XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.s
+.PHONY : XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.s
 
 XCamp200\XCamp_200_Midterm\Pizza.obj: XCamp200\XCamp_200_Midterm\Pizza.cpp.obj
 .PHONY : XCamp200\XCamp_200_Midterm\Pizza.obj
@@ -2062,6 +2182,12 @@ help:
 	@echo ... XCamp200/HW10/Sum_of_fractions.obj
 	@echo ... XCamp200/HW10/Sum_of_fractions.i
 	@echo ... XCamp200/HW10/Sum_of_fractions.s
+	@echo ... XCamp200/HW11/Auction.obj
+	@echo ... XCamp200/HW11/Auction.i
+	@echo ... XCamp200/HW11/Auction.s
+	@echo ... XCamp200/HW11/BunnyFamily.obj
+	@echo ... XCamp200/HW11/BunnyFamily.i
+	@echo ... XCamp200/HW11/BunnyFamily.s
 	@echo ... XCamp200/HW8/DontBeLast.obj
 	@echo ... XCamp200/HW8/DontBeLast.i
 	@echo ... XCamp200/HW8/DontBeLast.s
@@ -2080,6 +2206,15 @@ help:
 	@echo ... XCamp200/HW9/GCD.obj
 	@echo ... XCamp200/HW9/GCD.i
 	@echo ... XCamp200/HW9/GCD.s
+	@echo ... XCamp200/XCamp_200_Final_Exam/FirstProblemCounting2darray.obj
+	@echo ... XCamp200/XCamp_200_Final_Exam/FirstProblemCounting2darray.i
+	@echo ... XCamp200/XCamp_200_Final_Exam/FirstProblemCounting2darray.s
+	@echo ... XCamp200/XCamp_200_Final_Exam/Pyramids.obj
+	@echo ... XCamp200/XCamp_200_Final_Exam/Pyramids.i
+	@echo ... XCamp200/XCamp_200_Final_Exam/Pyramids.s
+	@echo ... XCamp200/XCamp_200_Final_Exam/TakingSteps.obj
+	@echo ... XCamp200/XCamp_200_Final_Exam/TakingSteps.i
+	@echo ... XCamp200/XCamp_200_Final_Exam/TakingSteps.s
 	@echo ... XCamp200/XCamp_200_Midterm/Pizza.obj
 	@echo ... XCamp200/XCamp_200_Midterm/Pizza.i
 	@echo ... XCamp200/XCamp_200_Midterm/Pizza.s

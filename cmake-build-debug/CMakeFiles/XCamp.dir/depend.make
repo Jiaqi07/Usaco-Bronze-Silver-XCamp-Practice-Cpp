@@ -135,6 +135,8 @@ CMakeFiles\XCamp.dir\XCamp200\HW9\FiboClass.cpp.obj: ..\XCamp200\HW9\FiboClass.c
 
 CMakeFiles\XCamp.dir\XCamp200\HW9\GCD.cpp.obj: ..\XCamp200\HW9\GCD.cpp
 
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj: "..\XCamp200\XCamp 200 Final Exam\TakingSteps.cpp"
+
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj: "..\XCamp200\XCamp 200 Midterm\Pizza.cpp"
 
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\TripleFibbo.cpp.obj: "..\XCamp200\XCamp 200 Midterm\TripleFibbo.cpp"

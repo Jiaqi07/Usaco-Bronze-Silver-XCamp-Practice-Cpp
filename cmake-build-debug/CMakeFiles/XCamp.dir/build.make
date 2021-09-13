@@ -1442,6 +1442,101 @@ CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\Usaco Practice\School Season August 2021\Stuckinarut2.0.cpp"
 <<
 
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj: "..\XCamp200\XCamp 200 Final Exam\TakingSteps.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/TakingSteps.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\TakingSteps.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/TakingSteps.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\TakingSteps.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/TakingSteps.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\TakingSteps.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj: "..\XCamp200\XCamp 200 Final Exam\Pyramids.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/Pyramids.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\Pyramids.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/Pyramids.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\Pyramids.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/Pyramids.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\Pyramids.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj: "..\XCamp200\XCamp 200 Final Exam\FirstProblemCounting2darray.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/FirstProblemCounting2darray.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\FirstProblemCounting2darray.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/FirstProblemCounting2darray.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\FirstProblemCounting2darray.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Final_Exam/FirstProblemCounting2darray.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp200\XCamp 200 Final Exam\FirstProblemCounting2darray.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.obj: ..\XCamp200\HW11\Auction.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/HW11/Auction.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW11\Auction.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/HW11/Auction.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW11\Auction.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/HW11/Auction.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.s /c C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW11\Auction.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.obj: ..\XCamp200\HW11\BunnyFamily.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/XCamp.dir/XCamp200/HW11/BunnyFamily.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW11\BunnyFamily.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp200/HW11/BunnyFamily.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW11\BunnyFamily.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp200/HW11/BunnyFamily.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.s /c C:\Users\Alan\CLionProjects\XCamp\XCamp200\HW11\BunnyFamily.cpp
+<<
+
 # Object files for target XCamp
 XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\main.cpp.obj" \
@@ -1516,7 +1611,12 @@ XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.obj" \
 "CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj" \
-"CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj"
+"CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.obj"
 
 # External object files for target XCamp
 XCamp_EXTERNAL_OBJECTS =
@@ -1594,9 +1694,14 @@ XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\build.make
 XCamp.exe: CMakeFiles\XCamp.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Linking CXX executable XCamp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Linking CXX executable XCamp.exe"
 	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\XCamp.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\XCamp.dir\objects1.rsp @<<
  /out:XCamp.exe /implib:XCamp.lib /pdb:C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\XCamp.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
