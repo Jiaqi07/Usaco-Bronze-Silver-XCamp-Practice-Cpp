@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-
+//Working solution 10/10, Single down the patterns to the greatest one
 int main(){
     int n, s[101], f[101][101];
     cin >> n;
@@ -33,6 +33,7 @@ int main(){
 
     cout << endl << s[0];
 }
+//Old Solution 7/10, attempt to simulate it for every pattern
 /*
 #include <iostream>
 #include <algorithm>
