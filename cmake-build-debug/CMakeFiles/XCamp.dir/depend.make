@@ -123,6 +123,10 @@ CMakeFiles\XCamp.dir\XCamp200\HW10\RecursionPractice2.cpp.obj: ..\XCamp200\HW10\
 
 CMakeFiles\XCamp.dir\XCamp200\HW10\Sum_of_fractions.cpp.obj: "..\XCamp200\HW10\Sum of fractions.cpp"
 
+CMakeFiles\XCamp.dir\XCamp200\HW11\Auction.cpp.obj: ..\XCamp200\HW11\Auction.cpp
+
+CMakeFiles\XCamp.dir\XCamp200\HW11\BunnyFamily.cpp.obj: ..\XCamp200\HW11\BunnyFamily.cpp
+
 CMakeFiles\XCamp.dir\XCamp200\HW8\DontBeLast.cpp.obj: ..\XCamp200\HW8\DontBeLast.cpp
 
 CMakeFiles\XCamp.dir\XCamp200\HW8\PositiveIntegerCounting.cpp.obj: ..\XCamp200\HW8\PositiveIntegerCounting.cpp
@@ -135,6 +139,10 @@ CMakeFiles\XCamp.dir\XCamp200\HW9\FiboClass.cpp.obj: ..\XCamp200\HW9\FiboClass.c
 
 CMakeFiles\XCamp.dir\XCamp200\HW9\GCD.cpp.obj: ..\XCamp200\HW9\GCD.cpp
 
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\FirstProblemCounting2darray.cpp.obj: "..\XCamp200\XCamp 200 Final Exam\FirstProblemCounting2darray.cpp"
+
+CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\Pyramids.cpp.obj: "..\XCamp200\XCamp 200 Final Exam\Pyramids.cpp"
+
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Final_Exam\TakingSteps.cpp.obj: "..\XCamp200\XCamp 200 Final Exam\TakingSteps.cpp"
 
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\Pizza.cpp.obj: "..\XCamp200\XCamp 200 Midterm\Pizza.cpp"
@@ -146,6 +154,10 @@ CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\hanoitower.cpp.obj: "..\XCamp200
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj: "..\XCamp200\XCamp 200 Midterm\nthnumber.cpp"
 
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: "..\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
+
+CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.obj: ..\XCamp201\DigitalTriangle.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.obj: ..\XCamp201\TriangleCounting.cpp
 
 CMakeFiles\XCamp.dir\main.cpp.obj: ..\main.cpp
 

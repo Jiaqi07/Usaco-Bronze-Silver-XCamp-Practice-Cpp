@@ -1966,6 +1966,54 @@ XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
 .PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
 
+XCamp201\DigitalTriangle.obj: XCamp201\DigitalTriangle.cpp.obj
+.PHONY : XCamp201\DigitalTriangle.obj
+
+# target to build an object file
+XCamp201\DigitalTriangle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.obj
+.PHONY : XCamp201\DigitalTriangle.cpp.obj
+
+XCamp201\DigitalTriangle.i: XCamp201\DigitalTriangle.cpp.i
+.PHONY : XCamp201\DigitalTriangle.i
+
+# target to preprocess a source file
+XCamp201\DigitalTriangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.i
+.PHONY : XCamp201\DigitalTriangle.cpp.i
+
+XCamp201\DigitalTriangle.s: XCamp201\DigitalTriangle.cpp.s
+.PHONY : XCamp201\DigitalTriangle.s
+
+# target to generate assembly for a file
+XCamp201\DigitalTriangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.s
+.PHONY : XCamp201\DigitalTriangle.cpp.s
+
+XCamp201\TriangleCounting.obj: XCamp201\TriangleCounting.cpp.obj
+.PHONY : XCamp201\TriangleCounting.obj
+
+# target to build an object file
+XCamp201\TriangleCounting.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.obj
+.PHONY : XCamp201\TriangleCounting.cpp.obj
+
+XCamp201\TriangleCounting.i: XCamp201\TriangleCounting.cpp.i
+.PHONY : XCamp201\TriangleCounting.i
+
+# target to preprocess a source file
+XCamp201\TriangleCounting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.i
+.PHONY : XCamp201\TriangleCounting.cpp.i
+
+XCamp201\TriangleCounting.s: XCamp201\TriangleCounting.cpp.s
+.PHONY : XCamp201\TriangleCounting.s
+
+# target to generate assembly for a file
+XCamp201\TriangleCounting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.s
+.PHONY : XCamp201\TriangleCounting.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -2230,6 +2278,12 @@ help:
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.obj
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.i
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.s
+	@echo ... XCamp201/DigitalTriangle.obj
+	@echo ... XCamp201/DigitalTriangle.i
+	@echo ... XCamp201/DigitalTriangle.s
+	@echo ... XCamp201/TriangleCounting.obj
+	@echo ... XCamp201/TriangleCounting.i
+	@echo ... XCamp201/TriangleCounting.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

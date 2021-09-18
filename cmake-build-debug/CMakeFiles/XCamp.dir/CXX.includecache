@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Final Exam/TakingSteps.cpp
+C:/Users/Alan/CLionProjects/XCamp/XCamp201/DigitalTriangle.cpp
 iostream
+-
+algorithm
+-
+iostream
+-
+algorithm
+-
+vector
 -
 
