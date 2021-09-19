@@ -1966,6 +1966,30 @@ XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
 .PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
 
+XCamp201\4peghanoi.obj: XCamp201\4peghanoi.cpp.obj
+.PHONY : XCamp201\4peghanoi.obj
+
+# target to build an object file
+XCamp201\4peghanoi.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.obj
+.PHONY : XCamp201\4peghanoi.cpp.obj
+
+XCamp201\4peghanoi.i: XCamp201\4peghanoi.cpp.i
+.PHONY : XCamp201\4peghanoi.i
+
+# target to preprocess a source file
+XCamp201\4peghanoi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.i
+.PHONY : XCamp201\4peghanoi.cpp.i
+
+XCamp201\4peghanoi.s: XCamp201\4peghanoi.cpp.s
+.PHONY : XCamp201\4peghanoi.s
+
+# target to generate assembly for a file
+XCamp201\4peghanoi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.s
+.PHONY : XCamp201\4peghanoi.cpp.s
+
 XCamp201\DigitalTriangle.obj: XCamp201\DigitalTriangle.cpp.obj
 .PHONY : XCamp201\DigitalTriangle.obj
 
@@ -2302,6 +2326,9 @@ help:
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.obj
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.i
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.s
+	@echo ... XCamp201/4peghanoi.obj
+	@echo ... XCamp201/4peghanoi.i
+	@echo ... XCamp201/4peghanoi.s
 	@echo ... XCamp201/DigitalTriangle.obj
 	@echo ... XCamp201/DigitalTriangle.i
 	@echo ... XCamp201/DigitalTriangle.s

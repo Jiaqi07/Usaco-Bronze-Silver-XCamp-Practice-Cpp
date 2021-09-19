@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -14,3 +15,4 @@ int main(){
     c = a*b;
     return 0;
 }
+*/

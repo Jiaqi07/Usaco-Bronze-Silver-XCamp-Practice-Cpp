@@ -155,7 +155,11 @@ CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj: "..\XCamp200\
 
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: "..\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
 
+CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.obj: ..\XCamp201\4peghanoi.cpp
+
 CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.obj: ..\XCamp201\DigitalTriangle.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\Test.cpp.obj: ..\XCamp201\Test.cpp
 
 CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.obj: ..\XCamp201\TriangleCounting.cpp
 
