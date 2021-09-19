@@ -77,6 +77,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/nthnumber.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/structure2basicquestion3.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/DigitalTriangle.cpp.obj"
+  "CMakeFiles/XCamp.dir/XCamp201/Test.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/TriangleCounting.cpp.obj"
   "CMakeFiles/XCamp.dir/main.cpp.obj"
   "XCamp.exe"

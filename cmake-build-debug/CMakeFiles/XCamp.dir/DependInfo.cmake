@@ -86,6 +86,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/nthnumber.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/nthnumber.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/structure2basicquestion3.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/structure2basicquestion3.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/DigitalTriangle.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/DigitalTriangle.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Test.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Test.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/TriangleCounting.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/TriangleCounting.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/main.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/main.cpp.obj"
   )

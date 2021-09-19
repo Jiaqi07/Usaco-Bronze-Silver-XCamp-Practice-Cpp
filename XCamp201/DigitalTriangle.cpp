@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -17,7 +18,7 @@ int main(){
     }
 
     for(int i = n - 1; i > 0; --i){ //Up and down for triangle
-        for(int j = 0; j < i; ++j){
+        for(int j = 0; j < i; ++j){ //Gets rid of the one statement on the edge meaning 5 using sample input
             if(s[j] > s[j + 1]){ //Check which one is the greater one and add it onto the list
                 s[j] = f[i - 1][j] + s[j];
             }
@@ -74,3 +75,20 @@ int main(){
     return 0;
 }
 */
+/*
+Input:
+7
+
+3 8
+
+8 1 0
+
+2 7 4 4
+
+4 5 2 6 5
+
+30 21 10 10 5
+
+ Output:
+ 30
+ */

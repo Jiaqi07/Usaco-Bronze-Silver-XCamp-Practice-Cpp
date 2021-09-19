@@ -1990,6 +1990,30 @@ XCamp201\DigitalTriangle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.s
 .PHONY : XCamp201\DigitalTriangle.cpp.s
 
+XCamp201\Test.obj: XCamp201\Test.cpp.obj
+.PHONY : XCamp201\Test.obj
+
+# target to build an object file
+XCamp201\Test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Test.cpp.obj
+.PHONY : XCamp201\Test.cpp.obj
+
+XCamp201\Test.i: XCamp201\Test.cpp.i
+.PHONY : XCamp201\Test.i
+
+# target to preprocess a source file
+XCamp201\Test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Test.cpp.i
+.PHONY : XCamp201\Test.cpp.i
+
+XCamp201\Test.s: XCamp201\Test.cpp.s
+.PHONY : XCamp201\Test.s
+
+# target to generate assembly for a file
+XCamp201\Test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Test.cpp.s
+.PHONY : XCamp201\Test.cpp.s
+
 XCamp201\TriangleCounting.obj: XCamp201\TriangleCounting.cpp.obj
 .PHONY : XCamp201\TriangleCounting.obj
 
@@ -2281,6 +2305,9 @@ help:
 	@echo ... XCamp201/DigitalTriangle.obj
 	@echo ... XCamp201/DigitalTriangle.i
 	@echo ... XCamp201/DigitalTriangle.s
+	@echo ... XCamp201/Test.obj
+	@echo ... XCamp201/Test.i
+	@echo ... XCamp201/Test.s
 	@echo ... XCamp201/TriangleCounting.obj
 	@echo ... XCamp201/TriangleCounting.i
 	@echo ... XCamp201/TriangleCounting.s

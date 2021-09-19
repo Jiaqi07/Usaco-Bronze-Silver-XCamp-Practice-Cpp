@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/XCamp201/DigitalTriangle.cpp
+C:/Users/Alan/CLionProjects/XCamp/XCamp201/Test.cpp
 iostream
 -
 algorithm
 -
+
+C:/Users/Alan/CLionProjects/XCamp/XCamp201/TriangleCounting.cpp
 iostream
 -
 algorithm
--
-vector
 -
 
