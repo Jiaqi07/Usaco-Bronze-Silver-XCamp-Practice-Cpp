@@ -14,6 +14,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling2.0.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling2.0.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling3.0WORKING.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/JustStalling3.0WORKING.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/ClockwiseFence.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/ClockwiseFence.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/ComfortableCows.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/ComfortableCows.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/LoadBalancing.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/LoadBalancing.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/Stuckinarut2.0.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/StuckInARut.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/StuckInARut.cpp.obj"
@@ -85,10 +87,11 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/hanoitower.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/hanoitower.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/nthnumber.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/nthnumber.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/structure2basicquestion3.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp200/XCamp_200_Midterm/structure2basicquestion3.cpp.obj"
-  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/4peghanoi.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/4peghanoi.cpp.obj"
-  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/DigitalTriangle.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/DigitalTriangle.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw1/DigitalTriangle.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw1/DigitalTriangle.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw1/TriangleCounting.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw1/TriangleCounting.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw2/4peghanoi.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw2/4peghanoi.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw2/Permutation.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw2/Permutation.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Test.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Test.cpp.obj"
-  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/TriangleCounting.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/TriangleCounting.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/main.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")

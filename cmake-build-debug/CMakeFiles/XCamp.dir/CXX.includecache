@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/XCamp201/4peghanoi.cpp
+C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw2/Permutation.cpp
 iostream
+-
+algorithm
 -
 

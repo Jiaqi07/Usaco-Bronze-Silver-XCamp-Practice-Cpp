@@ -262,6 +262,54 @@ Usaco_Practice\JustStalling3.0WORKING.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.s
 .PHONY : Usaco_Practice\JustStalling3.0WORKING.cpp.s
 
+Usaco_Practice\School_Season_August_2021\ClockwiseFence.obj: Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\ClockwiseFence.obj
+
+# target to build an object file
+Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.obj
+
+Usaco_Practice\School_Season_August_2021\ClockwiseFence.i: Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\ClockwiseFence.i
+
+# target to preprocess a source file
+Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.i
+
+Usaco_Practice\School_Season_August_2021\ClockwiseFence.s: Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\ClockwiseFence.s
+
+# target to generate assembly for a file
+Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.s
+
+Usaco_Practice\School_Season_August_2021\ComfortableCows.obj: Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\ComfortableCows.obj
+
+# target to build an object file
+Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.obj
+
+Usaco_Practice\School_Season_August_2021\ComfortableCows.i: Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\ComfortableCows.i
+
+# target to preprocess a source file
+Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.i
+
+Usaco_Practice\School_Season_August_2021\ComfortableCows.s: Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\ComfortableCows.s
+
+# target to generate assembly for a file
+Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.s
+
 Usaco_Practice\School_Season_August_2021\LoadBalancing.obj: Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj
 .PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.obj
 
@@ -1966,53 +2014,101 @@ XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
 .PHONY : XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.s
 
-XCamp201\4peghanoi.obj: XCamp201\4peghanoi.cpp.obj
-.PHONY : XCamp201\4peghanoi.obj
+XCamp201\Hw1\DigitalTriangle.obj: XCamp201\Hw1\DigitalTriangle.cpp.obj
+.PHONY : XCamp201\Hw1\DigitalTriangle.obj
 
 # target to build an object file
-XCamp201\4peghanoi.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.obj
-.PHONY : XCamp201\4peghanoi.cpp.obj
+XCamp201\Hw1\DigitalTriangle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw1\DigitalTriangle.cpp.obj
+.PHONY : XCamp201\Hw1\DigitalTriangle.cpp.obj
 
-XCamp201\4peghanoi.i: XCamp201\4peghanoi.cpp.i
-.PHONY : XCamp201\4peghanoi.i
+XCamp201\Hw1\DigitalTriangle.i: XCamp201\Hw1\DigitalTriangle.cpp.i
+.PHONY : XCamp201\Hw1\DigitalTriangle.i
 
 # target to preprocess a source file
-XCamp201\4peghanoi.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.i
-.PHONY : XCamp201\4peghanoi.cpp.i
+XCamp201\Hw1\DigitalTriangle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw1\DigitalTriangle.cpp.i
+.PHONY : XCamp201\Hw1\DigitalTriangle.cpp.i
 
-XCamp201\4peghanoi.s: XCamp201\4peghanoi.cpp.s
-.PHONY : XCamp201\4peghanoi.s
+XCamp201\Hw1\DigitalTriangle.s: XCamp201\Hw1\DigitalTriangle.cpp.s
+.PHONY : XCamp201\Hw1\DigitalTriangle.s
 
 # target to generate assembly for a file
-XCamp201\4peghanoi.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.s
-.PHONY : XCamp201\4peghanoi.cpp.s
+XCamp201\Hw1\DigitalTriangle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw1\DigitalTriangle.cpp.s
+.PHONY : XCamp201\Hw1\DigitalTriangle.cpp.s
 
-XCamp201\DigitalTriangle.obj: XCamp201\DigitalTriangle.cpp.obj
-.PHONY : XCamp201\DigitalTriangle.obj
+XCamp201\Hw1\TriangleCounting.obj: XCamp201\Hw1\TriangleCounting.cpp.obj
+.PHONY : XCamp201\Hw1\TriangleCounting.obj
 
 # target to build an object file
-XCamp201\DigitalTriangle.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.obj
-.PHONY : XCamp201\DigitalTriangle.cpp.obj
+XCamp201\Hw1\TriangleCounting.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw1\TriangleCounting.cpp.obj
+.PHONY : XCamp201\Hw1\TriangleCounting.cpp.obj
 
-XCamp201\DigitalTriangle.i: XCamp201\DigitalTriangle.cpp.i
-.PHONY : XCamp201\DigitalTriangle.i
+XCamp201\Hw1\TriangleCounting.i: XCamp201\Hw1\TriangleCounting.cpp.i
+.PHONY : XCamp201\Hw1\TriangleCounting.i
 
 # target to preprocess a source file
-XCamp201\DigitalTriangle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.i
-.PHONY : XCamp201\DigitalTriangle.cpp.i
+XCamp201\Hw1\TriangleCounting.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw1\TriangleCounting.cpp.i
+.PHONY : XCamp201\Hw1\TriangleCounting.cpp.i
 
-XCamp201\DigitalTriangle.s: XCamp201\DigitalTriangle.cpp.s
-.PHONY : XCamp201\DigitalTriangle.s
+XCamp201\Hw1\TriangleCounting.s: XCamp201\Hw1\TriangleCounting.cpp.s
+.PHONY : XCamp201\Hw1\TriangleCounting.s
 
 # target to generate assembly for a file
-XCamp201\DigitalTriangle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.s
-.PHONY : XCamp201\DigitalTriangle.cpp.s
+XCamp201\Hw1\TriangleCounting.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw1\TriangleCounting.cpp.s
+.PHONY : XCamp201\Hw1\TriangleCounting.cpp.s
+
+XCamp201\Hw2\4peghanoi.obj: XCamp201\Hw2\4peghanoi.cpp.obj
+.PHONY : XCamp201\Hw2\4peghanoi.obj
+
+# target to build an object file
+XCamp201\Hw2\4peghanoi.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw2\4peghanoi.cpp.obj
+.PHONY : XCamp201\Hw2\4peghanoi.cpp.obj
+
+XCamp201\Hw2\4peghanoi.i: XCamp201\Hw2\4peghanoi.cpp.i
+.PHONY : XCamp201\Hw2\4peghanoi.i
+
+# target to preprocess a source file
+XCamp201\Hw2\4peghanoi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw2\4peghanoi.cpp.i
+.PHONY : XCamp201\Hw2\4peghanoi.cpp.i
+
+XCamp201\Hw2\4peghanoi.s: XCamp201\Hw2\4peghanoi.cpp.s
+.PHONY : XCamp201\Hw2\4peghanoi.s
+
+# target to generate assembly for a file
+XCamp201\Hw2\4peghanoi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw2\4peghanoi.cpp.s
+.PHONY : XCamp201\Hw2\4peghanoi.cpp.s
+
+XCamp201\Hw2\Permutation.obj: XCamp201\Hw2\Permutation.cpp.obj
+.PHONY : XCamp201\Hw2\Permutation.obj
+
+# target to build an object file
+XCamp201\Hw2\Permutation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw2\Permutation.cpp.obj
+.PHONY : XCamp201\Hw2\Permutation.cpp.obj
+
+XCamp201\Hw2\Permutation.i: XCamp201\Hw2\Permutation.cpp.i
+.PHONY : XCamp201\Hw2\Permutation.i
+
+# target to preprocess a source file
+XCamp201\Hw2\Permutation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw2\Permutation.cpp.i
+.PHONY : XCamp201\Hw2\Permutation.cpp.i
+
+XCamp201\Hw2\Permutation.s: XCamp201\Hw2\Permutation.cpp.s
+.PHONY : XCamp201\Hw2\Permutation.s
+
+# target to generate assembly for a file
+XCamp201\Hw2\Permutation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw2\Permutation.cpp.s
+.PHONY : XCamp201\Hw2\Permutation.cpp.s
 
 XCamp201\Test.obj: XCamp201\Test.cpp.obj
 .PHONY : XCamp201\Test.obj
@@ -2037,30 +2133,6 @@ XCamp201\Test.s: XCamp201\Test.cpp.s
 XCamp201\Test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Test.cpp.s
 .PHONY : XCamp201\Test.cpp.s
-
-XCamp201\TriangleCounting.obj: XCamp201\TriangleCounting.cpp.obj
-.PHONY : XCamp201\TriangleCounting.obj
-
-# target to build an object file
-XCamp201\TriangleCounting.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.obj
-.PHONY : XCamp201\TriangleCounting.cpp.obj
-
-XCamp201\TriangleCounting.i: XCamp201\TriangleCounting.cpp.i
-.PHONY : XCamp201\TriangleCounting.i
-
-# target to preprocess a source file
-XCamp201\TriangleCounting.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.i
-.PHONY : XCamp201\TriangleCounting.cpp.i
-
-XCamp201\TriangleCounting.s: XCamp201\TriangleCounting.cpp.s
-.PHONY : XCamp201\TriangleCounting.s
-
-# target to generate assembly for a file
-XCamp201\TriangleCounting.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.s
-.PHONY : XCamp201\TriangleCounting.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -2113,6 +2185,12 @@ help:
 	@echo ... Usaco_Practice/JustStalling3.0WORKING.obj
 	@echo ... Usaco_Practice/JustStalling3.0WORKING.i
 	@echo ... Usaco_Practice/JustStalling3.0WORKING.s
+	@echo ... Usaco_Practice/School_Season_August_2021/ClockwiseFence.obj
+	@echo ... Usaco_Practice/School_Season_August_2021/ClockwiseFence.i
+	@echo ... Usaco_Practice/School_Season_August_2021/ClockwiseFence.s
+	@echo ... Usaco_Practice/School_Season_August_2021/ComfortableCows.obj
+	@echo ... Usaco_Practice/School_Season_August_2021/ComfortableCows.i
+	@echo ... Usaco_Practice/School_Season_August_2021/ComfortableCows.s
 	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.obj
 	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.i
 	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.s
@@ -2326,18 +2404,21 @@ help:
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.obj
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.i
 	@echo ... XCamp200/XCamp_200_Midterm/structure2basicquestion3.s
-	@echo ... XCamp201/4peghanoi.obj
-	@echo ... XCamp201/4peghanoi.i
-	@echo ... XCamp201/4peghanoi.s
-	@echo ... XCamp201/DigitalTriangle.obj
-	@echo ... XCamp201/DigitalTriangle.i
-	@echo ... XCamp201/DigitalTriangle.s
+	@echo ... XCamp201/Hw1/DigitalTriangle.obj
+	@echo ... XCamp201/Hw1/DigitalTriangle.i
+	@echo ... XCamp201/Hw1/DigitalTriangle.s
+	@echo ... XCamp201/Hw1/TriangleCounting.obj
+	@echo ... XCamp201/Hw1/TriangleCounting.i
+	@echo ... XCamp201/Hw1/TriangleCounting.s
+	@echo ... XCamp201/Hw2/4peghanoi.obj
+	@echo ... XCamp201/Hw2/4peghanoi.i
+	@echo ... XCamp201/Hw2/4peghanoi.s
+	@echo ... XCamp201/Hw2/Permutation.obj
+	@echo ... XCamp201/Hw2/Permutation.i
+	@echo ... XCamp201/Hw2/Permutation.s
 	@echo ... XCamp201/Test.obj
 	@echo ... XCamp201/Test.i
 	@echo ... XCamp201/Test.s
-	@echo ... XCamp201/TriangleCounting.obj
-	@echo ... XCamp201/TriangleCounting.i
-	@echo ... XCamp201/TriangleCounting.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

@@ -100,6 +100,12 @@
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/JustStalling3.0WORKING.cpp">
 			<Option target="XCamp"/>
 		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/ClockwiseFence.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/ComfortableCows.cpp">
+			<Option target="XCamp"/>
+		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/LoadBalancing.cpp">
 			<Option target="XCamp"/>
 		</Unit>
@@ -313,16 +319,19 @@
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp200/XCamp 200 Midterm/structure2basicquestion3.cpp">
 			<Option target="XCamp"/>
 		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/4peghanoi.cpp">
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw1/DigitalTriangle.cpp">
 			<Option target="XCamp"/>
 		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/DigitalTriangle.cpp">
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw1/TriangleCounting.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw2/4peghanoi.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw2/Permutation.cpp">
 			<Option target="XCamp"/>
 		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Test.cpp">
-			<Option target="XCamp"/>
-		</Unit>
-		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/TriangleCounting.cpp">
 			<Option target="XCamp"/>
 		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/main.cpp">

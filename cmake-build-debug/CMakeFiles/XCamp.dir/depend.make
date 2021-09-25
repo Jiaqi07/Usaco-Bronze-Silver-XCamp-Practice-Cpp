@@ -13,6 +13,10 @@ CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling2.0.cpp.obj: "..\Usaco Practice\
 
 CMakeFiles\XCamp.dir\Usaco_Practice\JustStalling3.0WORKING.cpp.obj: "..\Usaco Practice\JustStalling3.0WORKING.cpp"
 
+CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ClockwiseFence.cpp.obj: "..\Usaco Practice\School Season August 2021\ClockwiseFence.cpp"
+
+CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.obj: "..\Usaco Practice\School Season August 2021\ComfortableCows.cpp"
+
 CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj: "..\Usaco Practice\School Season August 2021\LoadBalancing.cpp"
 
 CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj: "..\Usaco Practice\School Season August 2021\Stuckinarut2.0.cpp"
@@ -155,13 +159,15 @@ CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\nthnumber.cpp.obj: "..\XCamp200\
 
 CMakeFiles\XCamp.dir\XCamp200\XCamp_200_Midterm\structure2basicquestion3.cpp.obj: "..\XCamp200\XCamp 200 Midterm\structure2basicquestion3.cpp"
 
-CMakeFiles\XCamp.dir\XCamp201\4peghanoi.cpp.obj: ..\XCamp201\4peghanoi.cpp
+CMakeFiles\XCamp.dir\XCamp201\Hw1\DigitalTriangle.cpp.obj: ..\XCamp201\Hw1\DigitalTriangle.cpp
 
-CMakeFiles\XCamp.dir\XCamp201\DigitalTriangle.cpp.obj: ..\XCamp201\DigitalTriangle.cpp
+CMakeFiles\XCamp.dir\XCamp201\Hw1\TriangleCounting.cpp.obj: ..\XCamp201\Hw1\TriangleCounting.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\Hw2\4peghanoi.cpp.obj: ..\XCamp201\Hw2\4peghanoi.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\Hw2\Permutation.cpp.obj: ..\XCamp201\Hw2\Permutation.cpp
 
 CMakeFiles\XCamp.dir\XCamp201\Test.cpp.obj: ..\XCamp201\Test.cpp
-
-CMakeFiles\XCamp.dir\XCamp201\TriangleCounting.cpp.obj: ..\XCamp201\TriangleCounting.cpp
 
 CMakeFiles\XCamp.dir\main.cpp.obj: ..\main.cpp
 
