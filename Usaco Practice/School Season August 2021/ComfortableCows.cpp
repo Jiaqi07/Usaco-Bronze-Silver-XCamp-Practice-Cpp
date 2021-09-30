@@ -1,3 +1,4 @@
+//Misunderstood Problem 6 Cases passed, 9/30/21
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -6,11 +7,11 @@ typedef long long ll;
 typedef pair<int, int> pairs;
 
 int N, cows[1002][1002];
-pairs cow[10001], alrComfy[10001];
+pairs cow[10001];
 
 int main(){
     cin >> N;
-    int comfortableCows, count, hist = 0;
+    int comfortableCows, count;
 
     for(int i = 0; i < N; ++i){
         comfortableCows = 0;
@@ -18,29 +19,29 @@ int main(){
         cows[cow[i].first][cow[i].second] = 1;
 
         if(i <= 2){
-            cout << comfortableCows-hist << '\n';
+            cout << comfortableCows << '\n';
             continue;
         }
 
-        for(int j = 0; j <= i; ++j){
+        for(int j = 0; j < i; ++j){
             count = 0;
-            if(cows[cow[j].first+1][cow[j].second] == 1){
+            if(cows[cow[j].first+1][cow[j].second] >= 1){
                 ++count;
             }
-            if(cows[cow[j].first-1][cow[j].second] == 1){
+            if(cows[cow[j].first-1][cow[j].second] >= 1){
                 ++count;
             }
-            if(cows[cow[j].first][cow[j].second+1] == 1){
+            if(cows[cow[j].first][cow[j].second+1] >= 1){
                 ++count;
             }
-            if(cows[cow[j].first][cow[j].second-1] == 1){
+            if(cows[cow[j].first][cow[j].second-1] >= 1){
                 ++count;
             }
-            if(count >= 3){
+            if(count == 3){
                 ++comfortableCows;
             }
         }
-        cout << comfortableCows-hist << '\n';
-        hist = comfortableCows;
+        cout << comfortableCows << '\n';
     }
+    return 0;
 }
