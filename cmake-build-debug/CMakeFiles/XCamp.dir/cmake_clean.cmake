@@ -82,6 +82,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/XCamp.dir/XCamp201/Hw1/TriangleCounting.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/Hw2/4peghanoi.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/Hw2/Permutation.cpp.obj"
+  "CMakeFiles/XCamp.dir/XCamp201/Hw3/FloodFill.cpp.obj"
+  "CMakeFiles/XCamp.dir/XCamp201/Hw3/FloodFillOpposite.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/Test.cpp.obj"
   "CMakeFiles/XCamp.dir/main.cpp.obj"
   "XCamp.exe"

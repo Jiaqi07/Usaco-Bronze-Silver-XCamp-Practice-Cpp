@@ -331,6 +331,12 @@
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw2/Permutation.cpp">
 			<Option target="XCamp"/>
 		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw3/FloodFill.cpp">
+			<Option target="XCamp"/>
+		</Unit>
+		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw3/FloodFillOpposite.cpp">
+			<Option target="XCamp"/>
+		</Unit>
 		<Unit filename="C:/Users/Alan/CLionProjects/XCamp/XCamp201/Test.cpp">
 			<Option target="XCamp"/>
 		</Unit>
