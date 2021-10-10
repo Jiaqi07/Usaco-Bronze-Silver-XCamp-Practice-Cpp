@@ -171,6 +171,12 @@ CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFill.cpp.obj: ..\XCamp201\Hw3\FloodFill.c
 
 CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFillOpposite.cpp.obj: ..\XCamp201\Hw3\FloodFillOpposite.cpp
 
+CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.obj: "..\XCamp201\Hw3\Maoge's Tower.cpp"
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.obj: "..\XCamp201\Hw4\Horse Traversal.cpp"
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.obj: ..\XCamp201\Hw4\Labyrinth.cpp
+
 CMakeFiles\XCamp.dir\XCamp201\Test.cpp.obj: ..\XCamp201\Test.cpp
 
 CMakeFiles\XCamp.dir\main.cpp.obj: ..\main.cpp

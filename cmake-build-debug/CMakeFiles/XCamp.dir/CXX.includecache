@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/ComfortableCows.cpp
+C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw4/Labyrinth.cpp
 iostream
+-
+algorithm
 -
 algorithm
 -

@@ -1708,6 +1708,63 @@ CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFillOpposite.cpp.s: cmake_force
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFillOpposite.cpp.s /c C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw3\FloodFillOpposite.cpp
 <<
 
+CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.obj: "..\XCamp201\Hw3\Maoge's Tower.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/XCamp.dir/XCamp201/Hw3/Maoge's_Tower.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /Fo"CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.obj" /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw3\Maoge's Tower.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp201/Hw3/Maoge's_Tower.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > "CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.i" @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw3\Maoge's Tower.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp201/Hw3/Maoge's_Tower.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /Fa"CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.s" /c "C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw3\Maoge's Tower.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.obj: ..\XCamp201\Hw4\Labyrinth.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/XCamp.dir/XCamp201/Hw4/Labyrinth.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw4\Labyrinth.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp201/Hw4/Labyrinth.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw4\Labyrinth.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp201/Hw4/Labyrinth.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.s /c C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw4\Labyrinth.cpp
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.obj: CMakeFiles\XCamp.dir\flags.make
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.obj: "..\XCamp201\Hw4\Horse Traversal.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/XCamp.dir/XCamp201/Hw4/Horse_Traversal.cpp.obj"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.obj /FdCMakeFiles\XCamp.dir\ /FS -c "C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw4\Horse Traversal.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/XCamp.dir/XCamp201/Hw4/Horse_Traversal.cpp.i"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe > CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw4\Horse Traversal.cpp"
+<<
+
+CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/XCamp.dir/XCamp201/Hw4/Horse_Traversal.cpp.s"
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.s /c "C:\Users\Alan\CLionProjects\XCamp\XCamp201\Hw4\Horse Traversal.cpp"
+<<
+
 # Object files for target XCamp
 XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\main.cpp.obj" \
@@ -1796,7 +1853,10 @@ XCamp_OBJECTS = \
 "CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ComfortableCows.cpp.obj" \
 "CMakeFiles\XCamp.dir\XCamp201\Hw2\Permutation.cpp.obj" \
 "CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFill.cpp.obj" \
-"CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFillOpposite.cpp.obj"
+"CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFillOpposite.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.obj" \
+"CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.obj"
 
 # External object files for target XCamp
 XCamp_EXTERNAL_OBJECTS =
@@ -1888,9 +1948,12 @@ XCamp.exe: CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Comfort
 XCamp.exe: CMakeFiles\XCamp.dir\XCamp201\Hw2\Permutation.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFill.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFillOpposite.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.obj
+XCamp.exe: CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.obj
 XCamp.exe: CMakeFiles\XCamp.dir\build.make
 XCamp.exe: CMakeFiles\XCamp.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Linking CXX executable XCamp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Linking CXX executable XCamp.exe"
 	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\XCamp.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1428~1.299\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\XCamp.dir\objects1.rsp @<<
  /out:XCamp.exe /implib:XCamp.lib /pdb:C:\Users\Alan\CLionProjects\XCamp\cmake-build-debug\XCamp.pdb /version:0.0 /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<

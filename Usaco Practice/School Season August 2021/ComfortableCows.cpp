@@ -1,3 +1,4 @@
+/*
 //Misunderstood Problem 6 Cases passed, 9/30/21
 #include <iostream>
 #include <algorithm>
@@ -45,3 +46,4 @@ int main(){
     }
     return 0;
 }
+*/
