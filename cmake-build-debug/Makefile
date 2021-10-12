@@ -358,6 +358,30 @@ Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s
 .PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.s
 
+Usaco_Practice\School_Season_August_2021\WordProcessor.obj: Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\WordProcessor.obj
+
+# target to build an object file
+Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.obj
+
+Usaco_Practice\School_Season_August_2021\WordProcessor.i: Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\WordProcessor.i
+
+# target to preprocess a source file
+Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.i
+
+Usaco_Practice\School_Season_August_2021\WordProcessor.s: Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\WordProcessor.s
+
+# target to generate assembly for a file
+Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.s
+
 Usaco_Practice\StuckInARut.obj: Usaco_Practice\StuckInARut.cpp.obj
 .PHONY : Usaco_Practice\StuckInARut.obj
 
@@ -2317,6 +2341,9 @@ help:
 	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.obj
 	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.i
 	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.s
+	@echo ... Usaco_Practice/School_Season_August_2021/WordProcessor.obj
+	@echo ... Usaco_Practice/School_Season_August_2021/WordProcessor.i
+	@echo ... Usaco_Practice/School_Season_August_2021/WordProcessor.s
 	@echo ... Usaco_Practice/StuckInARut.obj
 	@echo ... Usaco_Practice/StuckInARut.i
 	@echo ... Usaco_Practice/StuckInARut.s

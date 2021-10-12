@@ -9,6 +9,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/ComfortableCows.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/LoadBalancing.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.cpp.obj"
+  "CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/WordProcessor.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/StuckInARut.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/UdderedButNotHeard.cpp.obj"
   "CMakeFiles/XCamp.dir/Usaco_Practice/XCamp_Usaco_Bronze_2/Class1/Convention.cpp.obj"

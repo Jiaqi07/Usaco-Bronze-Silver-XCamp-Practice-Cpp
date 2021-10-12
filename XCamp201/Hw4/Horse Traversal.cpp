@@ -1,46 +1,67 @@
 /*
 #include <iostream>
-#include <vector>
-#include <queue>
-#include <utility>
 using namespace std;
-int n, m;
-vector<vector<int>> dir = { {-2, 1}, {-2, -1}, {2, 1}, {2, -1}, {-1, 2}, {-1, -2}, {1, 2}, {1, -2} };
 
-void bfs(vector<vector<int>> &chess,int x, int y) {
-    int step = 0;
-    chess[x][y] = 0;
-    queue<pair<int,int>> q;
-    q.push({x,y});
-    while(!q.empty()) {
-        int size = q.size();
-        step++;
-        for(int i = 0; i < size; i++) {
-            pair<int, int> temp = q.front();
-            q.pop();
-            for(int j = 0; j < 8; j++) {
-                int newx = temp.first+dir[j][0];
-                int newy = temp.second+dir[j][1];
-                if(newx<0 || newx>=n || newy < 0 || newy >= m)
-                    continue;
-                if(chess[newx][newy] >= 0)
-                    continue;
-                chess[newx][newy] = step;
-                q.push({newx,newy});
+int n, m;
+int Path_Row[8] = { -2, -2, 2, 2, -1, -1, 1, 1 };//Horse moves
+int Path_Col[8] = { 1, -1, 1, -1, 2, -2, 2, -2 };//Horse Moves
+int **board;
+
+
+
+bool CanWeMove(int rowNew, int colNew)
+{
+    if ((rowNew >= -1) && (rowNew < n) && (colNew >= -1) && (colNew < n) && (board[rowNew][colNew] == -1))
+        return true;
+    return false;
+}
+
+void FindPathInMaze(int desRow, int desCol, int move)
+{
+    if(move > 20){
+
+    }
+    else{
+        for (int index = 0; index < 8; index++)
+        {
+            int rowNew = desRow + Path_Row[index];
+            int colNew = desCol +Path_Col[index];
+            if (CanWeMove(rowNew, colNew))
+            {
+                move++;
+                board[rowNew][colNew] = move;
+                FindPathInMaze(desRow, desCol, move);
+                move = 0;
+
+                for(int i = 0; i < n; i++) {
+                    for(int j = 0; j < m; j++) {
+                        cout << board[i][j] << " ";
+                    }
+                    cout<<endl;
+                }
             }
         }
     }
 }
 int main() {
-    int x,y;
+    int x, y, z = 0;
     cin >> n >> m >> x >> y;
-    vector<vector<int>> chess(n, vector<int>(m,-1));
-    bfs(chess, x-1, y-1);
+
+    for(int i = 0; i < n; ++i){
+        board = new int*[m];
+        for(int j = 0; j < m; ++j){
+            board[i][j] = -1;
+        }
+    }
+
+    FindPathInMaze(x-1, y-1, z);
     for(int i = 0; i < n; i++) {
         for(int j = 0; j < m; j++) {
-            cout<<chess[i][j]<<" ";
+            cout << board[i][j] << " ";
         }
         cout<<endl;
     }
+
+    return 0;
 }
 */
