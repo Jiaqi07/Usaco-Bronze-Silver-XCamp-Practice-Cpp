@@ -2230,6 +2230,30 @@ XCamp201\Hw3\Maoge's_Tower.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) "CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.s"
 .PHONY : XCamp201\Hw3\Maoge's_Tower.cpp.s
 
+XCamp201\Hw4\01Maze.obj: XCamp201\Hw4\01Maze.cpp.obj
+.PHONY : XCamp201\Hw4\01Maze.obj
+
+# target to build an object file
+XCamp201\Hw4\01Maze.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw4\01Maze.cpp.obj
+.PHONY : XCamp201\Hw4\01Maze.cpp.obj
+
+XCamp201\Hw4\01Maze.i: XCamp201\Hw4\01Maze.cpp.i
+.PHONY : XCamp201\Hw4\01Maze.i
+
+# target to preprocess a source file
+XCamp201\Hw4\01Maze.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw4\01Maze.cpp.i
+.PHONY : XCamp201\Hw4\01Maze.cpp.i
+
+XCamp201\Hw4\01Maze.s: XCamp201\Hw4\01Maze.cpp.s
+.PHONY : XCamp201\Hw4\01Maze.s
+
+# target to generate assembly for a file
+XCamp201\Hw4\01Maze.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw4\01Maze.cpp.s
+.PHONY : XCamp201\Hw4\01Maze.cpp.s
+
 XCamp201\Hw4\Horse_Traversal.obj: XCamp201\Hw4\Horse_Traversal.cpp.obj
 .PHONY : XCamp201\Hw4\Horse_Traversal.obj
 
@@ -2278,29 +2302,29 @@ XCamp201\Hw4\Labyrinth.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.s
 .PHONY : XCamp201\Hw4\Labyrinth.cpp.s
 
-XCamp201\Hw5.obj: XCamp201\Hw5.cpp.obj
-.PHONY : XCamp201\Hw5.obj
+XCamp201\Hw5\SuperShelf2.obj: XCamp201\Hw5\SuperShelf2.cpp.obj
+.PHONY : XCamp201\Hw5\SuperShelf2.obj
 
 # target to build an object file
-XCamp201\Hw5.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5.cpp.obj
-.PHONY : XCamp201\Hw5.cpp.obj
+XCamp201\Hw5\SuperShelf2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\SuperShelf2.cpp.obj
+.PHONY : XCamp201\Hw5\SuperShelf2.cpp.obj
 
-XCamp201\Hw5.i: XCamp201\Hw5.cpp.i
-.PHONY : XCamp201\Hw5.i
+XCamp201\Hw5\SuperShelf2.i: XCamp201\Hw5\SuperShelf2.cpp.i
+.PHONY : XCamp201\Hw5\SuperShelf2.i
 
 # target to preprocess a source file
-XCamp201\Hw5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5.cpp.i
-.PHONY : XCamp201\Hw5.cpp.i
+XCamp201\Hw5\SuperShelf2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\SuperShelf2.cpp.i
+.PHONY : XCamp201\Hw5\SuperShelf2.cpp.i
 
-XCamp201\Hw5.s: XCamp201\Hw5.cpp.s
-.PHONY : XCamp201\Hw5.s
+XCamp201\Hw5\SuperShelf2.s: XCamp201\Hw5\SuperShelf2.cpp.s
+.PHONY : XCamp201\Hw5\SuperShelf2.s
 
 # target to generate assembly for a file
-XCamp201\Hw5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5.cpp.s
-.PHONY : XCamp201\Hw5.cpp.s
+XCamp201\Hw5\SuperShelf2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\SuperShelf2.cpp.s
+.PHONY : XCamp201\Hw5\SuperShelf2.cpp.s
 
 XCamp201\Test.obj: XCamp201\Test.cpp.obj
 .PHONY : XCamp201\Test.obj
@@ -2623,15 +2647,18 @@ help:
 	@echo ... XCamp201/Hw3/Maoge's_Tower.obj
 	@echo ... XCamp201/Hw3/Maoge's_Tower.i
 	@echo ... XCamp201/Hw3/Maoge's_Tower.s
+	@echo ... XCamp201/Hw4/01Maze.obj
+	@echo ... XCamp201/Hw4/01Maze.i
+	@echo ... XCamp201/Hw4/01Maze.s
 	@echo ... XCamp201/Hw4/Horse_Traversal.obj
 	@echo ... XCamp201/Hw4/Horse_Traversal.i
 	@echo ... XCamp201/Hw4/Horse_Traversal.s
 	@echo ... XCamp201/Hw4/Labyrinth.obj
 	@echo ... XCamp201/Hw4/Labyrinth.i
 	@echo ... XCamp201/Hw4/Labyrinth.s
-	@echo ... XCamp201/Hw5.obj
-	@echo ... XCamp201/Hw5.i
-	@echo ... XCamp201/Hw5.s
+	@echo ... XCamp201/Hw5/SuperShelf2.obj
+	@echo ... XCamp201/Hw5/SuperShelf2.i
+	@echo ... XCamp201/Hw5/SuperShelf2.s
 	@echo ... XCamp201/Test.obj
 	@echo ... XCamp201/Test.i
 	@echo ... XCamp201/Test.s
