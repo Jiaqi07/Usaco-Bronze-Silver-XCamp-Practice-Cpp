@@ -1,3 +1,70 @@
+#include <iostream>
+using namespace std;
+
+int chessboard[401][401]={-1};
+int n, m, row, col;
+
+int Path_Row[8] = { 2, 1, -1, -2, -2, -1,  1,  2 };
+int Path_Col[8] = { 1, 2,  2,  1, -1, -2, -2, -1 };
+
+void print_chessboard()
+{
+    cout << endl;
+
+    for(int i = 0; i < n; i++) {
+        for(int j = 0; j < m; j++)
+            cout << chessboard[i][j] << "\t";
+        cout << endl;
+    }
+}
+
+bool CanWeMove(int rowNew, int colNew, int move)
+{
+    if(rowNew<0 ||rowNew>=n || colNew<0 || colNew>=m)
+        return false;
+
+    if(chessboard[rowNew][colNew]<0)
+        return true;
+    else if(chessboard[rowNew][colNew]<=move)
+        return false;
+
+    return true;
+}
+
+void FindPathInMaze(int row, int col, int move)
+{
+    //if(move%199==0)
+    //  print_chessboard();
+
+    //cout << row << "\t" << col << "\t:" << move << endl;
+
+    if(move>200)
+        return;
+
+    chessboard[row][col] = move;
+
+    for(int i=0; i<sizeof(Path_Row)/sizeof(int); i++)
+    {
+        int rowNew = row + Path_Row[i];
+        int colNew = col + Path_Col[i];
+        if(CanWeMove(rowNew, colNew, move+1))
+        {
+            FindPathInMaze(rowNew, colNew, move+1);
+        }
+    }
+
+    return;
+}
+
+int main() {
+    cin >> n >> m >> row >> col;
+    row--; col--;  // 0 based
+    memset(chessboard, -1, sizeof chessboard);
+    FindPathInMaze(row, col, 0);
+
+    print_chessboard();
+}
+
 /*
 #include <iostream>
 using namespace std;

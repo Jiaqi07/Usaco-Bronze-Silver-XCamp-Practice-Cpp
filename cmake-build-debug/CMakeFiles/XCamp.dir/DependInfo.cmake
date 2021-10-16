@@ -17,6 +17,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/ClockwiseFence.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/ClockwiseFence.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/ComfortableCows.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/ComfortableCows.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/LoadBalancing.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/LoadBalancing.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/Photoshoot.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/Photoshoot.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/Stuckinarut2.0.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/WordProcessor.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/School_Season_August_2021/WordProcessor.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/StuckInARut.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/Usaco_Practice/StuckInARut.cpp.obj"
@@ -97,6 +98,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw3/Maoge's Tower.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw3/Maoge's_Tower.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw4/Horse Traversal.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw4/Horse_Traversal.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw4/Labyrinth.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw4/Labyrinth.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw5.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw5.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Test.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Test.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/main.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/main.cpp.obj"
   )

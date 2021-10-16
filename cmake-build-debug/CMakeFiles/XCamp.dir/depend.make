@@ -19,7 +19,11 @@ CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\ComfortableCows.cp
 
 CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.obj: "..\Usaco Practice\School Season August 2021\LoadBalancing.cpp"
 
+CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.obj: "..\Usaco Practice\School Season August 2021\Photoshoot.cpp"
+
 CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj: "..\Usaco Practice\School Season August 2021\Stuckinarut2.0.cpp"
+
+CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\WordProcessor.cpp.obj: "..\Usaco Practice\School Season August 2021\WordProcessor.cpp"
 
 CMakeFiles\XCamp.dir\Usaco_Practice\StuckInARut.cpp.obj: "..\Usaco Practice\StuckInARut.cpp"
 

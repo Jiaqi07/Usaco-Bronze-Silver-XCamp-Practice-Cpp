@@ -334,6 +334,30 @@ Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.s
 .PHONY : Usaco_Practice\School_Season_August_2021\LoadBalancing.cpp.s
 
+Usaco_Practice\School_Season_August_2021\Photoshoot.obj: Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\Photoshoot.obj
+
+# target to build an object file
+Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.obj
+.PHONY : Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.obj
+
+Usaco_Practice\School_Season_August_2021\Photoshoot.i: Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\Photoshoot.i
+
+# target to preprocess a source file
+Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.i
+.PHONY : Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.i
+
+Usaco_Practice\School_Season_August_2021\Photoshoot.s: Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\Photoshoot.s
+
+# target to generate assembly for a file
+Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.s
+.PHONY : Usaco_Practice\School_Season_August_2021\Photoshoot.cpp.s
+
 Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.obj: Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.cpp.obj
 .PHONY : Usaco_Practice\School_Season_August_2021\Stuckinarut2.0.obj
 
@@ -2254,6 +2278,30 @@ XCamp201\Hw4\Labyrinth.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.s
 .PHONY : XCamp201\Hw4\Labyrinth.cpp.s
 
+XCamp201\Hw5.obj: XCamp201\Hw5.cpp.obj
+.PHONY : XCamp201\Hw5.obj
+
+# target to build an object file
+XCamp201\Hw5.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5.cpp.obj
+.PHONY : XCamp201\Hw5.cpp.obj
+
+XCamp201\Hw5.i: XCamp201\Hw5.cpp.i
+.PHONY : XCamp201\Hw5.i
+
+# target to preprocess a source file
+XCamp201\Hw5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5.cpp.i
+.PHONY : XCamp201\Hw5.cpp.i
+
+XCamp201\Hw5.s: XCamp201\Hw5.cpp.s
+.PHONY : XCamp201\Hw5.s
+
+# target to generate assembly for a file
+XCamp201\Hw5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5.cpp.s
+.PHONY : XCamp201\Hw5.cpp.s
+
 XCamp201\Test.obj: XCamp201\Test.cpp.obj
 .PHONY : XCamp201\Test.obj
 
@@ -2338,6 +2386,9 @@ help:
 	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.obj
 	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.i
 	@echo ... Usaco_Practice/School_Season_August_2021/LoadBalancing.s
+	@echo ... Usaco_Practice/School_Season_August_2021/Photoshoot.obj
+	@echo ... Usaco_Practice/School_Season_August_2021/Photoshoot.i
+	@echo ... Usaco_Practice/School_Season_August_2021/Photoshoot.s
 	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.obj
 	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.i
 	@echo ... Usaco_Practice/School_Season_August_2021/Stuckinarut2.0.s
@@ -2578,6 +2629,9 @@ help:
 	@echo ... XCamp201/Hw4/Labyrinth.obj
 	@echo ... XCamp201/Hw4/Labyrinth.i
 	@echo ... XCamp201/Hw4/Labyrinth.s
+	@echo ... XCamp201/Hw5.obj
+	@echo ... XCamp201/Hw5.i
+	@echo ... XCamp201/Hw5.s
 	@echo ... XCamp201/Test.obj
 	@echo ... XCamp201/Test.i
 	@echo ... XCamp201/Test.s
