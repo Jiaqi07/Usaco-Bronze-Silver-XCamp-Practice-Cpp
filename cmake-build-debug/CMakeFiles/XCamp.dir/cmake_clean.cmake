@@ -90,6 +90,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/XCamp.dir/XCamp201/Hw4/01Maze.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/Hw4/Horse_Traversal.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/Hw4/Labyrinth.cpp.obj"
+  "CMakeFiles/XCamp.dir/XCamp201/Hw5/Red_and_Black.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/Hw5/SuperShelf2.cpp.obj"
   "CMakeFiles/XCamp.dir/XCamp201/Test.cpp.obj"
   "CMakeFiles/XCamp.dir/main.cpp.obj"

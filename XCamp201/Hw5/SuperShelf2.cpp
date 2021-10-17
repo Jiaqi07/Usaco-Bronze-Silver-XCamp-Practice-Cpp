@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -36,3 +37,4 @@ int main(){
     cout << minHeight-shelfHeight; //Minus by shelf to get final answer cuz it's difference!
     return 0;
 }
+*/

@@ -99,6 +99,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw4/01Maze.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw4/01Maze.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw4/Horse Traversal.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw4/Horse_Traversal.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw4/Labyrinth.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw4/Labyrinth.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw5/Red and Black.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw5/Red_and_Black.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw5/SuperShelf2.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw5/SuperShelf2.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Test.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Test.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/main.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/main.cpp.obj"

@@ -2302,6 +2302,30 @@ XCamp201\Hw4\Labyrinth.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.s
 .PHONY : XCamp201\Hw4\Labyrinth.cpp.s
 
+XCamp201\Hw5\Red_and_Black.obj: XCamp201\Hw5\Red_and_Black.cpp.obj
+.PHONY : XCamp201\Hw5\Red_and_Black.obj
+
+# target to build an object file
+XCamp201\Hw5\Red_and_Black.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\Red_and_Black.cpp.obj
+.PHONY : XCamp201\Hw5\Red_and_Black.cpp.obj
+
+XCamp201\Hw5\Red_and_Black.i: XCamp201\Hw5\Red_and_Black.cpp.i
+.PHONY : XCamp201\Hw5\Red_and_Black.i
+
+# target to preprocess a source file
+XCamp201\Hw5\Red_and_Black.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\Red_and_Black.cpp.i
+.PHONY : XCamp201\Hw5\Red_and_Black.cpp.i
+
+XCamp201\Hw5\Red_and_Black.s: XCamp201\Hw5\Red_and_Black.cpp.s
+.PHONY : XCamp201\Hw5\Red_and_Black.s
+
+# target to generate assembly for a file
+XCamp201\Hw5\Red_and_Black.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\Red_and_Black.cpp.s
+.PHONY : XCamp201\Hw5\Red_and_Black.cpp.s
+
 XCamp201\Hw5\SuperShelf2.obj: XCamp201\Hw5\SuperShelf2.cpp.obj
 .PHONY : XCamp201\Hw5\SuperShelf2.obj
 
@@ -2656,6 +2680,9 @@ help:
 	@echo ... XCamp201/Hw4/Labyrinth.obj
 	@echo ... XCamp201/Hw4/Labyrinth.i
 	@echo ... XCamp201/Hw4/Labyrinth.s
+	@echo ... XCamp201/Hw5/Red_and_Black.obj
+	@echo ... XCamp201/Hw5/Red_and_Black.i
+	@echo ... XCamp201/Hw5/Red_and_Black.s
 	@echo ... XCamp201/Hw5/SuperShelf2.obj
 	@echo ... XCamp201/Hw5/SuperShelf2.i
 	@echo ... XCamp201/Hw5/SuperShelf2.s
