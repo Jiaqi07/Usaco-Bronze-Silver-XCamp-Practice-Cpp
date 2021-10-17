@@ -1,3 +1,4 @@
+/*
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -74,7 +75,7 @@ int main() {
             }
             cout << '\n';
         }
-        */
+        *//*
         int count = 0;
         fillMaze(startX, startY, count);
 
@@ -85,3 +86,4 @@ int main() {
 
     return 0;
 }
+*/

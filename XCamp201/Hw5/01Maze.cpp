@@ -1,4 +1,70 @@
 /*
+#include <cstdio>
+#include <vector>
+
+using namespace std;
+int n, m;
+int a[1001][1001] = {0};
+int visited[1001][1001] = {0};
+int x_dir[4]={1,-1,0,0};
+int y_dir[4]={0,0,1,-1};
+char mystr[1001];
+
+struct PNT {
+    int x, y;
+    PNT (int x0, int y0) : x(x0), y(y0){};
+};
+
+vector<PNT > vec;
+
+// search cells within same zone of this cell
+void SearchCell(PNT pt) {
+    vec.push_back(pt);
+    visited[pt.x][pt.y] = -1;
+    for(int i = 0; i < 4; i++)
+    {
+        PNT neighbor(pt.x+x_dir[i], pt.y+y_dir[i]);
+        if(neighbor.x >= 0 && neighbor.x < n && neighbor.y >= 0 && neighbor.y < n && !visited[neighbor.x][neighbor.y]
+        && a[pt.x][pt.y] + a[neighbor.x][neighbor.y] == 1)
+            SearchCell(neighbor);
+    }
+}
+
+// search the zone where pt is in
+// assign value to cells in this zone
+void FloodFill(PNT pt) {
+    if (visited[pt.x][pt.y] > 0) {
+        printf("%d\n", visited[pt.x][pt.y]);
+        return;
+    }
+    vec.clear();
+    SearchCell(pt);
+
+    int size = vec.size();
+    for(int i = 0; i < size; i++)
+        visited[vec[i].x][vec[i].y] = size;
+
+    printf("%d\n", size);
+}
+
+int main() {
+    scanf("%d %d",&n, &m);
+    for (int i = 0; i < n; i++) {
+        scanf("%s", mystr); // since there is no space between 0, 1
+        for (int j = 0; j < n; j++) {
+            a[i][j] = mystr[j] - '0';
+        }
+    }
+
+    int x, y;
+    for (int i = 0; i < m; i++) {
+        scanf("%d %d",&x, &y);
+        PNT pt(x-1, y-1);
+        FloodFill(pt);
+    }
+}
+
+/*
 #include<cstdio>
 #include <iostream>
 #include <vector>
