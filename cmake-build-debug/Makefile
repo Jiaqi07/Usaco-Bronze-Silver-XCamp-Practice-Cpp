@@ -2350,6 +2350,126 @@ XCamp201\Hw5\SuperShelf2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\SuperShelf2.cpp.s
 .PHONY : XCamp201\Hw5\SuperShelf2.cpp.s
 
+XCamp201\Hw7\Ski.obj: XCamp201\Hw7\Ski.cpp.obj
+.PHONY : XCamp201\Hw7\Ski.obj
+
+# target to build an object file
+XCamp201\Hw7\Ski.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw7\Ski.cpp.obj
+.PHONY : XCamp201\Hw7\Ski.cpp.obj
+
+XCamp201\Hw7\Ski.i: XCamp201\Hw7\Ski.cpp.i
+.PHONY : XCamp201\Hw7\Ski.i
+
+# target to preprocess a source file
+XCamp201\Hw7\Ski.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw7\Ski.cpp.i
+.PHONY : XCamp201\Hw7\Ski.cpp.i
+
+XCamp201\Hw7\Ski.s: XCamp201\Hw7\Ski.cpp.s
+.PHONY : XCamp201\Hw7\Ski.s
+
+# target to generate assembly for a file
+XCamp201\Hw7\Ski.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw7\Ski.cpp.s
+.PHONY : XCamp201\Hw7\Ski.cpp.s
+
+XCamp201\Midterm\A_maze_ing.obj: XCamp201\Midterm\A_maze_ing.cpp.obj
+.PHONY : XCamp201\Midterm\A_maze_ing.obj
+
+# target to build an object file
+XCamp201\Midterm\A_maze_ing.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\A_maze_ing.cpp.obj
+.PHONY : XCamp201\Midterm\A_maze_ing.cpp.obj
+
+XCamp201\Midterm\A_maze_ing.i: XCamp201\Midterm\A_maze_ing.cpp.i
+.PHONY : XCamp201\Midterm\A_maze_ing.i
+
+# target to preprocess a source file
+XCamp201\Midterm\A_maze_ing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\A_maze_ing.cpp.i
+.PHONY : XCamp201\Midterm\A_maze_ing.cpp.i
+
+XCamp201\Midterm\A_maze_ing.s: XCamp201\Midterm\A_maze_ing.cpp.s
+.PHONY : XCamp201\Midterm\A_maze_ing.s
+
+# target to generate assembly for a file
+XCamp201\Midterm\A_maze_ing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\A_maze_ing.cpp.s
+.PHONY : XCamp201\Midterm\A_maze_ing.cpp.s
+
+XCamp201\Midterm\BunnyFamilyII.obj: XCamp201\Midterm\BunnyFamilyII.cpp.obj
+.PHONY : XCamp201\Midterm\BunnyFamilyII.obj
+
+# target to build an object file
+XCamp201\Midterm\BunnyFamilyII.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\BunnyFamilyII.cpp.obj
+.PHONY : XCamp201\Midterm\BunnyFamilyII.cpp.obj
+
+XCamp201\Midterm\BunnyFamilyII.i: XCamp201\Midterm\BunnyFamilyII.cpp.i
+.PHONY : XCamp201\Midterm\BunnyFamilyII.i
+
+# target to preprocess a source file
+XCamp201\Midterm\BunnyFamilyII.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\BunnyFamilyII.cpp.i
+.PHONY : XCamp201\Midterm\BunnyFamilyII.cpp.i
+
+XCamp201\Midterm\BunnyFamilyII.s: XCamp201\Midterm\BunnyFamilyII.cpp.s
+.PHONY : XCamp201\Midterm\BunnyFamilyII.s
+
+# target to generate assembly for a file
+XCamp201\Midterm\BunnyFamilyII.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\BunnyFamilyII.cpp.s
+.PHONY : XCamp201\Midterm\BunnyFamilyII.cpp.s
+
+XCamp201\Midterm\MatrixWithTreasuresI.obj: XCamp201\Midterm\MatrixWithTreasuresI.cpp.obj
+.PHONY : XCamp201\Midterm\MatrixWithTreasuresI.obj
+
+# target to build an object file
+XCamp201\Midterm\MatrixWithTreasuresI.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\MatrixWithTreasuresI.cpp.obj
+.PHONY : XCamp201\Midterm\MatrixWithTreasuresI.cpp.obj
+
+XCamp201\Midterm\MatrixWithTreasuresI.i: XCamp201\Midterm\MatrixWithTreasuresI.cpp.i
+.PHONY : XCamp201\Midterm\MatrixWithTreasuresI.i
+
+# target to preprocess a source file
+XCamp201\Midterm\MatrixWithTreasuresI.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\MatrixWithTreasuresI.cpp.i
+.PHONY : XCamp201\Midterm\MatrixWithTreasuresI.cpp.i
+
+XCamp201\Midterm\MatrixWithTreasuresI.s: XCamp201\Midterm\MatrixWithTreasuresI.cpp.s
+.PHONY : XCamp201\Midterm\MatrixWithTreasuresI.s
+
+# target to generate assembly for a file
+XCamp201\Midterm\MatrixWithTreasuresI.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\MatrixWithTreasuresI.cpp.s
+.PHONY : XCamp201\Midterm\MatrixWithTreasuresI.cpp.s
+
+XCamp201\Midterm\RecursionToFindNFactorial.obj: XCamp201\Midterm\RecursionToFindNFactorial.cpp.obj
+.PHONY : XCamp201\Midterm\RecursionToFindNFactorial.obj
+
+# target to build an object file
+XCamp201\Midterm\RecursionToFindNFactorial.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\RecursionToFindNFactorial.cpp.obj
+.PHONY : XCamp201\Midterm\RecursionToFindNFactorial.cpp.obj
+
+XCamp201\Midterm\RecursionToFindNFactorial.i: XCamp201\Midterm\RecursionToFindNFactorial.cpp.i
+.PHONY : XCamp201\Midterm\RecursionToFindNFactorial.i
+
+# target to preprocess a source file
+XCamp201\Midterm\RecursionToFindNFactorial.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\RecursionToFindNFactorial.cpp.i
+.PHONY : XCamp201\Midterm\RecursionToFindNFactorial.cpp.i
+
+XCamp201\Midterm\RecursionToFindNFactorial.s: XCamp201\Midterm\RecursionToFindNFactorial.cpp.s
+.PHONY : XCamp201\Midterm\RecursionToFindNFactorial.s
+
+# target to generate assembly for a file
+XCamp201\Midterm\RecursionToFindNFactorial.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Midterm\RecursionToFindNFactorial.cpp.s
+.PHONY : XCamp201\Midterm\RecursionToFindNFactorial.cpp.s
+
 XCamp201\Test.obj: XCamp201\Test.cpp.obj
 .PHONY : XCamp201\Test.obj
 
@@ -2686,6 +2806,21 @@ help:
 	@echo ... XCamp201/Hw5/SuperShelf2.obj
 	@echo ... XCamp201/Hw5/SuperShelf2.i
 	@echo ... XCamp201/Hw5/SuperShelf2.s
+	@echo ... XCamp201/Hw7/Ski.obj
+	@echo ... XCamp201/Hw7/Ski.i
+	@echo ... XCamp201/Hw7/Ski.s
+	@echo ... XCamp201/Midterm/A_maze_ing.obj
+	@echo ... XCamp201/Midterm/A_maze_ing.i
+	@echo ... XCamp201/Midterm/A_maze_ing.s
+	@echo ... XCamp201/Midterm/BunnyFamilyII.obj
+	@echo ... XCamp201/Midterm/BunnyFamilyII.i
+	@echo ... XCamp201/Midterm/BunnyFamilyII.s
+	@echo ... XCamp201/Midterm/MatrixWithTreasuresI.obj
+	@echo ... XCamp201/Midterm/MatrixWithTreasuresI.i
+	@echo ... XCamp201/Midterm/MatrixWithTreasuresI.s
+	@echo ... XCamp201/Midterm/RecursionToFindNFactorial.obj
+	@echo ... XCamp201/Midterm/RecursionToFindNFactorial.i
+	@echo ... XCamp201/Midterm/RecursionToFindNFactorial.s
 	@echo ... XCamp201/Test.obj
 	@echo ... XCamp201/Test.i
 	@echo ... XCamp201/Test.s

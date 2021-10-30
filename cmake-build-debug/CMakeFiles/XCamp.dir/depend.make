@@ -177,15 +177,25 @@ CMakeFiles\XCamp.dir\XCamp201\Hw3\FloodFillOpposite.cpp.obj: ..\XCamp201\Hw3\Flo
 
 CMakeFiles\XCamp.dir\XCamp201\Hw3\Maoge's_Tower.cpp.obj: "..\XCamp201\Hw3\Maoge's Tower.cpp"
 
-CMakeFiles\XCamp.dir\XCamp201\Hw4\01Maze.cpp.obj: ..\XCamp201\Hw4\01Maze.cpp
-
 CMakeFiles\XCamp.dir\XCamp201\Hw4\Horse_Traversal.cpp.obj: "..\XCamp201\Hw4\Horse Traversal.cpp"
 
 CMakeFiles\XCamp.dir\XCamp201\Hw4\Labyrinth.cpp.obj: ..\XCamp201\Hw4\Labyrinth.cpp
 
+CMakeFiles\XCamp.dir\XCamp201\Hw5\01Maze.cpp.obj: ..\XCamp201\Hw5\01Maze.cpp
+
 CMakeFiles\XCamp.dir\XCamp201\Hw5\Red_and_Black.cpp.obj: "..\XCamp201\Hw5\Red and Black.cpp"
 
 CMakeFiles\XCamp.dir\XCamp201\Hw5\SuperShelf2.cpp.obj: ..\XCamp201\Hw5\SuperShelf2.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\Hw7\Ski.cpp.obj: ..\XCamp201\Hw7\Ski.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\Midterm\A_maze_ing.cpp.obj: "..\XCamp201\Midterm\A maze ing.cpp"
+
+CMakeFiles\XCamp.dir\XCamp201\Midterm\BunnyFamilyII.cpp.obj: ..\XCamp201\Midterm\BunnyFamilyII.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\Midterm\MatrixWithTreasuresI.cpp.obj: ..\XCamp201\Midterm\MatrixWithTreasuresI.cpp
+
+CMakeFiles\XCamp.dir\XCamp201\Midterm\RecursionToFindNFactorial.cpp.obj: ..\XCamp201\Midterm\RecursionToFindNFactorial.cpp
 
 CMakeFiles\XCamp.dir\XCamp201\Test.cpp.obj: ..\XCamp201\Test.cpp
 

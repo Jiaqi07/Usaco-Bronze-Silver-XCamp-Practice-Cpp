@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw5/01Maze.cpp
-cstdio
--
-vector
--
-cstdio
--
+C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw7/Ski.cpp
 iostream
 -
-vector
+algorithm
 -
 
