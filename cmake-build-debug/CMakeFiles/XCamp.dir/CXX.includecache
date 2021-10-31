@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw7/Ski.cpp
+C:/Users/Alan/CLionProjects/XCamp/Usaco Practice/School Season August 2021/Photoshoot.cpp
 iostream
 -
 algorithm
+-
+vector
 -
 

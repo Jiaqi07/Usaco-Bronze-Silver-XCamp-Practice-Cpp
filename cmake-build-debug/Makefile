@@ -2350,6 +2350,30 @@ XCamp201\Hw5\SuperShelf2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw5\SuperShelf2.cpp.s
 .PHONY : XCamp201\Hw5\SuperShelf2.cpp.s
 
+XCamp201\Hw7\I_am_autistic.obj: XCamp201\Hw7\I_am_autistic.cpp.obj
+.PHONY : XCamp201\Hw7\I_am_autistic.obj
+
+# target to build an object file
+XCamp201\Hw7\I_am_autistic.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw7\I_am_autistic.cpp.obj
+.PHONY : XCamp201\Hw7\I_am_autistic.cpp.obj
+
+XCamp201\Hw7\I_am_autistic.i: XCamp201\Hw7\I_am_autistic.cpp.i
+.PHONY : XCamp201\Hw7\I_am_autistic.i
+
+# target to preprocess a source file
+XCamp201\Hw7\I_am_autistic.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw7\I_am_autistic.cpp.i
+.PHONY : XCamp201\Hw7\I_am_autistic.cpp.i
+
+XCamp201\Hw7\I_am_autistic.s: XCamp201\Hw7\I_am_autistic.cpp.s
+.PHONY : XCamp201\Hw7\I_am_autistic.s
+
+# target to generate assembly for a file
+XCamp201\Hw7\I_am_autistic.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\XCamp.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\XCamp.dir\XCamp201\Hw7\I_am_autistic.cpp.s
+.PHONY : XCamp201\Hw7\I_am_autistic.cpp.s
+
 XCamp201\Hw7\Ski.obj: XCamp201\Hw7\Ski.cpp.obj
 .PHONY : XCamp201\Hw7\Ski.obj
 
@@ -2806,6 +2830,9 @@ help:
 	@echo ... XCamp201/Hw5/SuperShelf2.obj
 	@echo ... XCamp201/Hw5/SuperShelf2.i
 	@echo ... XCamp201/Hw5/SuperShelf2.s
+	@echo ... XCamp201/Hw7/I_am_autistic.obj
+	@echo ... XCamp201/Hw7/I_am_autistic.i
+	@echo ... XCamp201/Hw7/I_am_autistic.s
 	@echo ... XCamp201/Hw7/Ski.obj
 	@echo ... XCamp201/Hw7/Ski.i
 	@echo ... XCamp201/Hw7/Ski.s

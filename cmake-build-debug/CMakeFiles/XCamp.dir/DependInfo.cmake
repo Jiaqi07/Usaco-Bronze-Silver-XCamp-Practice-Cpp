@@ -101,6 +101,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw5/01Maze.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw5/01Maze.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw5/Red and Black.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw5/Red_and_Black.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw5/SuperShelf2.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw5/SuperShelf2.cpp.obj"
+  "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw7/I am autistic.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw7/I_am_autistic.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Hw7/Ski.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Hw7/Ski.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Midterm/A maze ing.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Midterm/A_maze_ing.cpp.obj"
   "C:/Users/Alan/CLionProjects/XCamp/XCamp201/Midterm/BunnyFamilyII.cpp" "C:/Users/Alan/CLionProjects/XCamp/cmake-build-debug/CMakeFiles/XCamp.dir/XCamp201/Midterm/BunnyFamilyII.cpp.obj"

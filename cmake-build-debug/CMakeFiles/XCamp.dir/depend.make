@@ -187,6 +187,8 @@ CMakeFiles\XCamp.dir\XCamp201\Hw5\Red_and_Black.cpp.obj: "..\XCamp201\Hw5\Red an
 
 CMakeFiles\XCamp.dir\XCamp201\Hw5\SuperShelf2.cpp.obj: ..\XCamp201\Hw5\SuperShelf2.cpp
 
+CMakeFiles\XCamp.dir\XCamp201\Hw7\I_am_autistic.cpp.obj: "..\XCamp201\Hw7\I am autistic.cpp"
+
 CMakeFiles\XCamp.dir\XCamp201\Hw7\Ski.cpp.obj: ..\XCamp201\Hw7\Ski.cpp
 
 CMakeFiles\XCamp.dir\XCamp201\Midterm\A_maze_ing.cpp.obj: "..\XCamp201\Midterm\A maze ing.cpp"
